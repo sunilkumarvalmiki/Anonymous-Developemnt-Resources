@@ -13,7 +13,7 @@
 
 - [Codepen](https://codepen.io/) - 
 
-    - [Frameworks]
+    - Frameworks
         - [React.js](https://codepen.io/topic/react/templates)
         - [Vue.js](https://codepen.io/topic/vue/templates)
         - [Flutter](https://codepen.io/topic/flutter/templates)
@@ -22,7 +22,7 @@
         - [TensorFlow.js](https://codepen.io/topic/tensorflow/templates)
         - [ZIM](https://codepen.io/topic/zim/templates)
 
-    - [Libraries]
+    - Libraries
         - [GSAP](https://codepen.io/topic/gsap/templates)
         - [Zdog](https://codepen.io/topic/zdog/templates)
         - [Tailwind CSS](https://codepen.io/topic/tailwind/picks)
