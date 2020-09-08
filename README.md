@@ -11,5 +11,5 @@
 
 ### ONLINE CODE EDITORS 💻 :
 
-- [Codepen] (https://codepen.io/)
-- [Codesandbox] (https://codesandbox.io/)
+- [Codepen](https://codepen.io/)
+- [Codesandbox](https://codesandbox.io/)
