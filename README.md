@@ -14,8 +14,8 @@
 - [Codepen](https://codepen.io/) - 
 
     - Frameworks
-        - [React.js](https://codepen.io/topic/react/templates)
-        - [Vue.js](https://codepen.io/topic/vue/templates)
+        - [React](https://codepen.io/topic/react/templates)
+        - [Vue](https://codepen.io/topic/vue/templates)
         - [Flutter](https://codepen.io/topic/flutter/templates)
         - [Pug](https://codepen.io/topic/pug/templates)
         - [D3.js](https://codepen.io/topic/d3/templates)
@@ -32,6 +32,42 @@
     - [UI Patterns](https://codepen.io/topics/ui-patterns)
 
 - [Codesandbox](https://codesandbox.io/)
+
+    - Frameworks
+        - React
+        - Vue
+        - Angular
+
+    - UI Frameworks
+    - Component Libraries
+    - Web App & API Starters
+    - Databases
+    - Visualization
+    - Ecommerce
+    - Blogging
+
 - [JSFiddle](https://jsfiddle.net/)
+    - HTML
+    - CSS
+    - Javascript
+
 - [Stackblitz](https://stackblitz.com/)
+    - Angular
+    - React
+    - Ionic
+    - TypeScript
+    - RxJS
+    - Svelte
+    - Angular.js
+    - Javascript
+    - Ignite UI
+    - KendoReact
+
 - [PlayCode](http://playcode.io/)
+    - React.js
+    - Vue
+    - Pixi.js
+    - Canvas
+    - Three.js
+    - JSON
+    - Image
