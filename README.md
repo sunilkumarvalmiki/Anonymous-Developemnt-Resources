@@ -147,6 +147,10 @@
 - [color scheme designer](https://colorschemedesigner.com/csd-3.5/)
 - [Coolors](https://coolors.co/)
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel)
+- [Color Thoery](https://tallys.github.io/color-theory/)
+- [ColorHunt](https://colorhunt.co/)
+- [Bada55](http://bada55.io/)
+- [ColorDesigner.io](https://colordesigner.io/)
 
 
 ### tools ⚙ :
@@ -220,7 +224,28 @@
 - [Icon Sweets](https://designbombs.com/iconsweets2/)
 - [StreamLine](https://www.streamlineicons.com/)
 - [FreePik](https://www.freepik.com/)
-
+- [IconsSVG](https://iconsvg.xyz/)
+- [Simple Icons](https://simpleicons.org/)
+- [React Icons](https://react-icons.github.io/react-icons/#/)
+- [Evil Icons](https://evil-icons.io/)
+- [SVGPorn](https://svgporn.com/)
+- [Feather Icons](https://feathericons.com/)
+- [System UI Icons](https://systemuicons.com/)
+- [BrandIcons](http://fontello.github.io/brandico.font/demo.html)
+- [glyhs](https://www.webhostinghub.com/glyphs/)
+- [IconGram](https://icongr.am/)
+- [Ionicons](https://ionicons.com/)
+- [Map Icons](http://map-icons.com/)
+- [Material & Ionic Icons](http://zavoloklom.github.io/material-design-iconic-font/icons.html)
+- [MFG Labs](http://mfglabs.github.io/mfglabs-iconset/)
+- [MICons](http://xtoolkit.github.io/Micon/)
+- [Octicons](https://primer.style/octicons/)
+- [Useiconic](https://useiconic.com/open/)
+- [OpenWeb Icons](https://pfefferle.dev/openwebicons/)
+- [Shapes.so](https://shape.so/)
+- [StackIcons](http://stackicons.com/)
+- [Weather Icons](https://erikflowers.github.io/weather-icons/)
+- [Social Button Icons](https://smcllns.github.io/css-social-buttons/)
 
 ### Fonts ✍ :  
 
@@ -292,10 +317,11 @@
 
 ### Music & Sound 🎵 : 
 
-[Freeplay music](https://freeplaymusic.com/)
-[FMA](https://freemusicarchive.org/)
-[Audio nautix](https://audionautix.com/)
-[Pacdv](https://www.pacdv.com/sounds/)
-[BenSound](https://www.bensound.com/)
-[Audio Blocks](https://www.storyblocks.com/audio/collections/creator-to-creator)
-[Tekno AXE](http://teknoaxe.com/Home.php)
+- [Freeplay music](https://freeplaymusic.com/)
+- [FMA](https://freemusicarchive.org/)
+- [Audio nautix](https://audionautix.com/)
+- [Pacdv](https://www.pacdv.com/sounds/)
+- [BenSound](https://www.bensound.com/)
+- [Audio Blocks](https://www.storyblocks.com/audio/collections/creator-to-creator)
+- [Tekno AXE](http://teknoaxe.com/Home.php)
+
