@@ -165,17 +165,22 @@
 
 ### tools ⚙ :
 
-- [Neumorphism](https://neumorphism.io/) - neuromorphic CSS generator
-- [Neuromorphic.Design](https://neumorphic.design/) - Neuromorphic CSS generator
-- [Soft UI](https://www.softui.io/) - Neuromorphic CSS generator
+- CSS :
+    - [Neumorphism](https://neumorphism.io/) - neuromorphic CSS generator
+    - [Neuromorphic.Design](https://neumorphic.design/) - Neuromorphic CSS generator
+    - [Soft UI](https://www.softui.io/) - Neuromorphic CSS generator
+    - [CSSfx](https://cssfx.netlify.app/) - CSS effects
+    - [Cubic Beizer](https://cubic-bezier.com/#.17,.67,.83,.67) - Cubic Beizer functions
+    - [Shape Divider](https://www.shapedivider.app/) - Custom CSS Shapes
+    - [CSS MiniFier](https://cssminifier.com/) - CSS minifier
+    - [Auto Pefixer](https://autoprefixer.github.io/) - CSS AutoPrefixer
+    - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - css grid generator
+    - [Stickybits](https://dollarshaveclub.github.io/stickybits/) - css position polyfill
+
 - [Can i use](https://caniuse.com/) - Broswer support
 - [HTML5Test](https://html5test.com/) - Browser support
-- [CSS MiniFier](https://cssminifier.com/) - CSS minifier
 - [Uglify](https://skalman.github.io/UglifyJS-online/) - JS Minifier
 - [Javascript Compressor](http://javascriptcompressor.com/) - JS Compressor
-- [Auto Pefixer](https://autoprefixer.github.io/) - CSS AutoPrefixer
-- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - css grid generator
-- [Stickybits](https://dollarshaveclub.github.io/stickybits/) - css position polyfill
 - [Multi.js](https://fabianlindfors.se/multijs/) - select box Custimization Library
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - json validator
 - [Fake JSON](https://fakejson.com/) - fake json generator
@@ -223,7 +228,8 @@
 - [UnMinify](https://unminify.com/) - To UnMinify HTML,CSS,JS 
 - [WebCode Tools](https://webcode.tools/) - CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators
 - [PDF Candy](https://pdfcandy.com/) - All-in-one PDF Tool 
-
+- [Dev Hints](https://devhints.io/)- Cheatsheets for programming languages
+- [Modern Javascript CheatSheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Modern javascript Cheatsheet 
 
 
 ### Icons
@@ -363,6 +369,7 @@
 - [CodemyUI](https://codemyui.com/)
 - [CodyHouse](https://codyhouse.co/)
 - [NavNav](http://navnav.co/)
+= [Styled-Components](https://styled-components.com/)
 
 
 ### RoadMaps 🗺 : 
