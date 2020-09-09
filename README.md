@@ -178,7 +178,7 @@
     - [Stickybits](https://dollarshaveclub.github.io/stickybits/) - css position polyfill
 
 - [Can i use](https://caniuse.com/) - Broswer support
-- [HTML5Test](https://html5test.com/) - Browser support
+- [HTML5 Test](https://html5test.com/) - Browser support
 - [Uglify](https://skalman.github.io/UglifyJS-online/) - JS Minifier
 - [Javascript Compressor](http://javascriptcompressor.com/) - JS Compressor
 - [Multi.js](https://fabianlindfors.se/multijs/) - select box Custimization Library
@@ -413,3 +413,51 @@
 - [The Odin Project](https://www.theodinproject.com/)
 - [W3Schools](https://www.w3schools.com/)
 - [Learn Anything](https://learn-anything.xyz/)
+
+
+### Youtube Programming Channels 📹 :
+
+- Android :
+    - [Android Coding](https://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ)
+    - [Stevdza-san](https://www.youtube.com/channel/UCYLAirIEMMXtWOECuZAtjqQ)
+    - [ARSL Tech](https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew)
+    - [Slidenerd](https://www.youtube.com/user/slidenerd)
+    - [Codetutor](https://www.youtube.com/user/funnybunnyanil)
+    - [Smartherd](https://www.youtube.com/user/smartherd)
+    - [The newboston](https://www.youtube.com/user/thenewboston/featured)
+    - [goobar](https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ)
+    - [reso coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
+    - [coding with mitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
+- Python :
+    - [Al Sweigart](https://www.youtube.com/user/Albert10110)
+    - [Anaconda](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
+    - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+    - [Coding entrepreneurs]()
+    - [Corey Schafer]()
+    - [Chris hawks]()
+    - [CS Dojo ]()
+    - [Data School (Kevin Markham)]()
+    - [David Beasley]()
+    - [Enthought]()
+    - [Michael Kennedy (talk python)]()
+    - [pretty printed]()
+    - [pyCon session recordings]()
+    - [Pydata]()
+    - [real python]()
+    - [Sentdex (Harrison kindly)]()
+    - [Siraj raval]()
+    - [Socratica]()
+    - [TheNew Boston]()
+    - [Smaller python Conferences]()
+    - [Tokyo's EdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+
+
+### Youtube Course Playists 📼 : 
+
+- [Android]()
+- [Python]()
+- [React]()
+- [PHP]()
+- [JavaScript]()
+- [Projects]()
+- [Interview]()
