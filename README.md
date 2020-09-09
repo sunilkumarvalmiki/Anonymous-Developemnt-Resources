@@ -116,7 +116,7 @@
 - [Stack Abuse](https://stackabuse.com/)
 - [Coding Alpha](https://www.codingalpha.com/)
 - [Reddit Programming](https://www.reddit.com/r/programming/)
-- [COdeWall](https://www.codewall.co.uk/)
+- [CodeWall](https://www.codewall.co.uk/)
 - [Tuts PLanet](https://www.tutsplanet.com/)
 - [CodingHorror](https://blog.codinghorror.com/)
 - [DWB](https://davidwalsh.name/)
@@ -151,6 +151,16 @@
 - [ColorHunt](https://colorhunt.co/)
 - [Bada55](http://bada55.io/)
 - [ColorDesigner.io](https://colordesigner.io/)
+- [ColorMind](http://colormind.io/bootstrap/)
+- [Learn UI](https://learnui.design/tools/data-color-picker.html)
+- [ImageColors](https://image-color.com/)
+- [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
+- [Material Palette](https://www.materialpalette.com/)
+- [shapeFactory](https://pigment.shapefactory.co/)
+- [Palettable.io](https://www.palettable.io/ED3E75-383838-D4D4D4)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [CSS Gradient](https://cssgradient.io/gradient-backgrounds/)
+- [Picular](https://picular.co/)
 
 
 ### tools ⚙ :
@@ -204,6 +214,16 @@
 - [Favicon Generator](https://realfavicongenerator.net/) - favicon generator
 - [Favicon Generator](https://favicon.io/) - favicon generator
 - [Favicon Generator](https://www.favicongenerator.com/) - favicon generator
+- [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist) - A Curated Checklist for Web Developers
+- [Responsinator](http://www.responsinator.com/) - Responsive Design in Different Devices
+- [Responsive Grid System](http://www.responsivegridsystem.com/) - Responsive Grid System
+- [Compressor](https://compressor.io/) - images optimizer
+- [Optimizilla](https://imagecompressor.com/) - images optimizer
+- [Draw.io](https://app.diagrams.net/) -  used for drawing flowcharts,diagrams,org charts, UML, ER and network diagrams.
+- [UnMinify](https://unminify.com/) - To UnMinify HTML,CSS,JS 
+- [WebCode Tools](https://webcode.tools/) - CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators
+- [PDF Candy](https://pdfcandy.com/) - All-in-one PDF Tool 
+
 
 
 ### Icons
@@ -300,6 +320,10 @@
 - [stockio](https://www.stockio.com/)
 - [stock vault](https://www.stockvault.net/)
 - [free range](https://freerangestock.com/)
+- [Burst.Shopify](https://burst.shopify.com/)
+- [FoodiesFeed](https://www.foodiesfeed.com/)
+- [Gratisography](https://gratisography.com/)
+- [PIcography](https://picography.co/)
 
 
 ### Videos 🎥 : 
@@ -324,4 +348,29 @@
 - [BenSound](https://www.bensound.com/)
 - [Audio Blocks](https://www.storyblocks.com/audio/collections/creator-to-creator)
 - [Tekno AXE](http://teknoaxe.com/Home.php)
+
+
+### Templates & Themes & Snippets 💻 :
+
+- [HTML5up](https://html5up.net/)
+- [BootstrapStrater](https://bootstrapstarter.com/)
+- [StartBootstrap](https://startbootstrap.com/)
+- [MDBootstrap](https://mdbootstrap.com/)
+- [Html5 Slides Library](https://www.jssor.com/)
+- [Free Frontend](https://freefrontend.com/)
+- [Bootsnip](https://bootsnipp.com/)
+- [Wow Slider](https://wowslider.com/)
+- [CodemyUI](https://codemyui.com/)
+- [CodyHouse](https://codyhouse.co/)
+- [NavNav](http://navnav.co/)
+
+
+### RoadMaps 🗺 : 
+
+- [Frontend](https://roadmap.sh/frontend) - More(https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+- [Backend](https://roadmap.sh/backend)
+- [React](https://roadmap.sh/react)
+- [Android](https://roadmap.sh/android)
+- [Devops](https://roadmap.sh/devops)
+
 
