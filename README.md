@@ -367,7 +367,7 @@
 
 ### RoadMaps 🗺 : 
 
-- [Frontend](https://roadmap.sh/frontend) - More(https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+- [Frontend](https://roadmap.sh/frontend) - [More](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [Backend](https://roadmap.sh/backend)
 - [React](https://roadmap.sh/react)
 - [Android](https://roadmap.sh/android)
