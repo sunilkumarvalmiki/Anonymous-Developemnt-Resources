@@ -367,10 +367,12 @@
 
 ### RoadMaps 🗺 : 
 
-- [Frontend](https://roadmap.sh/frontend) - [More](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
-- [Backend](https://roadmap.sh/backend)
-- [React](https://roadmap.sh/react)
-- [Android](https://roadmap.sh/android)
-- [Devops](https://roadmap.sh/devops)
+- [Frontend](https://roadmap.sh/frontend) - [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+- [Backend](https://roadmap.sh/backend)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+- [React](https://roadmap.sh/react) - [Article](https://javarevisited.blogspot.com/2018/10/the-2018-react-developer-roadmap.html)
+- [React](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan) - [Article](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
+- [Android](https://roadmap.sh/android) - [Article](https://github.com/MindorksOpenSource/android-developer-roadmap)
+- [Andriod 2020](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf) - [Article](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf)
+- [Devops](https://roadmap.sh/devops)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 
 
