@@ -370,9 +370,9 @@
 - [Frontend](https://roadmap.sh/frontend) - [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [Backend](https://roadmap.sh/backend)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [React](https://roadmap.sh/react) - [Article](https://javarevisited.blogspot.com/2018/10/the-2018-react-developer-roadmap.html)
-- [React](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan) - [Article](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
+- [React New](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan) - [Article](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
 - [Android](https://roadmap.sh/android) - [Article](https://github.com/MindorksOpenSource/android-developer-roadmap)
 - [Andriod 2020](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf) - [Article](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf)
 - [Devops](https://roadmap.sh/devops)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
-
-
+- [Full-Stack Web Developer 2020](https://medium.com/codingthesmartway-com-blog/the-2020-roadmap-to-fullstack-web-development-6d1713697a27) - [Article](https://medium.com/codingthesmartway-com-blog/the-2020-roadmap-to-fullstack-web-development-6d1713697a27)
+- [Modern Javascript Learning path 2020](https://javascript.info/) - [Article](https://www.youtube.com/watch?v=gSnbnYffz7k)
