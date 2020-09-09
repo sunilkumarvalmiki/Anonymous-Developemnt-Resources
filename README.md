@@ -369,7 +369,8 @@
 - [CodemyUI](https://codemyui.com/)
 - [CodyHouse](https://codyhouse.co/)
 - [NavNav](http://navnav.co/)
-= [Styled-Components](https://styled-components.com/)
+- [Styled-Components](https://styled-components.com/)
+- [Web Dev Tricks](https://webdevtrick.com/)
 
 
 ### RoadMaps 🗺 : 
@@ -383,3 +384,32 @@
 - [Devops](https://roadmap.sh/devops)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [Full-Stack Web Developer 2020](https://medium.com/codingthesmartway-com-blog/the-2020-roadmap-to-fullstack-web-development-6d1713697a27) - [Article](https://medium.com/codingthesmartway-com-blog/the-2020-roadmap-to-fullstack-web-development-6d1713697a27)
 - [Modern Javascript Learning path 2020](https://javascript.info/) - [Article](https://www.youtube.com/watch?v=gSnbnYffz7k)
+
+
+### Learning Platforms 📙 : 
+
+- [Udemy](https://www.udemy.com/)
+- [Udacity](https://www.udacity.com/)
+- [edx](https://www.edx.org/)
+- [codeacademy](https://www.codecademy.com/)
+- [learn-c.org](https://www.learn-c.org/)
+- [programiz](https://www.programiz.com/)
+- [hackr.io](https://hackr.io/)
+- [coursera](https://www.coursera.org/)
+- [khan acamdey](https://www.khanacademy.org/)
+- [academic earth](https://academicearth.org/)
+- [Alison](https://alison.com/)
+- [lesson paths](https://www.lessonpaths.com/)
+- [pluralsight](https://www.pluralsight.com/)
+- [sololearn](https://www.sololearn.com/)
+- [MIT Open Courseware](https://ocw.mit.edu/)
+- [Scotch.io](https://scotch.io/)
+- [Scrimba](https://scrimba.com/)
+- [TreeHouse](https://teamtreehouse.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
+- [JavaTPoint](https://www.javatpoint.com/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [W3Schools](https://www.w3schools.com/)
+- [Learn Anything](https://learn-anything.xyz/)
