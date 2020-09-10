@@ -485,133 +485,166 @@
     - [TechSith](https://www.youtube.com/user/techSithTube/featured)
     - [LearnCode Academy](https://www.youtube.com/c/learncodeacademy)
     - [Java Guides](https://www.youtube.com/c/JavaGuides)
+    - [Dev Mentor Live](https://www.youtube.com/c/devmentorlive/videos)
 
+- Javascript :
+    - [Dev Mentor Live](https://www.youtube.com/c/devmentorlive/videos)
+    - [Ajinkya X](https://www.youtube.com/channel/UCuB4FSBjofpagXnBlHQUocA)
+    - [SkewCode](https://www.youtube.com/channel/UC2OlawNLNAD7xDQYNGl26wQ/videos)
+    - [JSConf](https://www.youtube.com/user/jsconfeu/videos)
+    - [Code Workr](https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw/videos)
+    - [Zac Gordon](https://www.youtube.com/channel/UC07WzVtVDVksJR30sU7-EWg/videos)
+    - [CloseBrace](https://www.youtube.com/channel/UCuRrj99X_0F0Eoux7EOgbHw/videos)
+    - [Northwest Chicago Javascript](https://www.youtube.com/channel/UCmyhw3CIvgZydVk-LNkiTQg/videos)
+    - [Thanable](https://www.youtube.com/channel/UCL8AMKLVecaaUs86eCt0zyw/videos)
+    - [JS Nuggets](https://www.youtube.com/channel/UC-1l0Ew_jMorWJ0d9RWk5wg)
+    - [Traversy Media]((https://www.youtube.com/c/TraversyMedia)
+
+- Java : 
+    - [Java](https://www.youtube.com/user/java)
+    - [Adam Bien](https://www.youtube.com/user/bienadam)
+    - [Thorben Janssen](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw)
+    - [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
+    - [v JUG](https://www.youtube.com/user/virtualJUG)
+    - [Sebastian Daschner](https://www.youtube.com/channel/UCG21GE2Go3vkj7mrs675ysA)
+    - [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
+    - [NightHacking](https://www.youtube.com/channel/UCT0bL2CQIk1eANeXk57mxaA)
+    - [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+    - [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV)
+    - [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev)
+    - [SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w)
+    - [Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+    - [TheNew Boston](https://www.youtube.com/user/thenewboston/playlists)
+    - [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/featured)
+    - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+    - [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
+    - [Saurabh Shukla](https://www.youtube.com/channel/UCGR3vMYA20JJDQvGFccujdA/featured)
+    - [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+    - [Durga Software Solutions](https://www.youtube.com/user/durgasoftware/videos)
+    - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/featured)
+    - [Java Guides](https://www.youtube.com/c/JavaGuides/featured)
+    - [Programming Knowledge](https://www.youtube.com/c/JavaGuides/featured)
+    - [Cave of Programming](https://www.youtube.com/channel/UCnAdXkr17iQS8YcYl0LhPdw)
 
     - Mixed programming channels :
-        - [learn code.academy]() - (HTML, CSS, JS, RESPONSIVE DESIGN, REACT, NODE, ANGULAR, DOCKER, DEVOPS, SERVER-ADMINISTRATION, DEPLOYMENT)
+        - [learn code.academy]()
+        - [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
         - [Pusher](https://www.youtube.com/c/Pusher_realtime/featured)
         - [TechSith](https://www.youtube.com/user/techSithTube/featured)
-
-- Traversy Media - 
-- Code course
-- The new Boston
-- Wes bos 
-- fun fun function
-- level tuts
-- udacity
-- coder’s guide 
-- helping develop 
-- google developers
-- learn web code
-- web dev mentors
-- Derek banas
-- hak5
-- the cherno project
-- java brains 									
-- tree house
-- Eli the computer guy
-- programming knowledge
-- edureka
-- programming with mosh
-- design course
-- Hitesh Choudhary
-- Academind
-- Adam Khoury
-- darrel wilson
-- stefan mischook
-- Joe Parys academy
-- Jream
-- 1st web designer
-- neil Rowe
-- joshua fluke
-- jesse showalter
-- Chris coyier
-- Chris Sean
-- tuts+ web design
-- Naveed ziarab
-- Joseph smith
-- brackeys
-- quill18creates
-- khan Academy
-- Source Decoded
-- php academy
-- mike locke
-- pfltuts
-- cs geeks
-- NDC conferences
-- dev ternity
-- goto conferences
-- JS Nuggets
-- free code camp
-- google chrome developers
-- wp beginner - wordpress tutorials 
-- Mackenzie child
-- Starhere.fm
-- brad hussy
-- code geek
-- google web designer
-- css tricks
-- dev.Ed
-- tech lead
-- Tyler Moore
-- coding the smart way
-- java
-- Adam bien
-- thoughts on java
-- devoxx
-- vjug
-- Sebastian Daschner
-- infoQ
-- nightHacking
-- jet brains tv
-- spring developer
-- souJava
-- the coding train
-- AL Sweigart
-- christian thompson
-- CS Dojo
-- Siraj raval 
-- clever programmer
-- brad traversy
-- Quentin watt tutorials
-- the digicraft
-- easy dev tuts
-- web in action
-- MJD Web Design
-- Kirupa Chinnathambi
-- I Hate tomatoes
-- simple programmer
-- unAcademy
-- Fox learn
-- programming
-- Davids videos
-- code Archery
-- Jonathan Blow
-- learn programming
-- the go programming language
-- programming experts
-- SF python
-- Synthetic programming
-- programming for people
-- JavaAid - Coding interview Preparation
-- Junior developer central
-- Immortal coders
-- AshProgHelp - programming Help
-- thumb IKR - programming examples
-- Extern code
-- Itorian
-- programming tutorials
-- kudvenkat
-- MyCodeschool
-- Slide Nerd
-- Cave of programming
-- coding entrepreneurs
-- Code school
-- charger games
-- WiredWiki 
-- easy learn tutorial
-- michiel Wouters
-- live Lessons
+        - [Traversy Media]()
+        - [Code course]
+        - [The new Boston]
+        - [Wes bos] 
+        - [fun fun function]
+        - [level tuts]
+        - [udacity]
+        - [coder’s guide]
+        - [helping develop]
+        - [google developers]
+        - [learn web code]
+        - [web dev mentors]
+        - [Derek banas]
+        - [hak5]
+        - [the cherno project]
+        - [java brains]								
+        - [tree house]
+        - [Eli the computer guy]
+        - [programming knowledge]
+        - [edureka]
+        - [programming with mosh]
+        - [design course]
+        - [Hitesh Choudhary]
+        - [Academind]
+        - [Adam Khoury]
+        - [darrel wilson]
+        - [stefan mischook]
+        - [Joe Parys academy]
+        - [Jream]
+        - [1st web designer]
+        - [neil Rowe]
+        - [joshua fluke]
+        - [jesse showalter]
+        - [Chris coyier]
+        - [Chris Sean]
+        - [tuts+ web design]
+        - [Naveed ziarab]
+        - [Joseph smith]
+        - [brackeys]
+        - [quill18creates]
+        - [khan Academy]
+        - [Source Decoded]
+        - [mike locke]
+        - [pfltuts]
+        - [cs geeks]
+        - [NDC conferences]
+        - [dev ternity]
+        - [goto conferences]
+        - [free code camp]
+        - [google chrome developers]
+        - [wp beginner - wordpress tutorials ]
+        - [Mackenzie child]
+        - [Starhere.fm]
+        - [brad hussy]
+        - [code geek]
+        - [google web designer]
+        - [css tricks]
+        - [dev.Ed]
+        - [tech lead]
+        - [Tyler Moore]
+        - [coding the smart way]
+        - [java]
+        - [Adam bien]
+        - [thoughts on java]
+        - [devoxx]
+        - [vjug]
+        - [Sebastian Daschner]
+        - [infoQ]
+        - [nightHacking]
+        - [jet brains tv]
+        - [spring developer]
+        - [souJava]
+        - [the coding train]
+        - [clever programmer]
+        - [brad traversy]
+        - [Quentin watt tutorials]
+        - [the digicraft]
+        - [easy dev tuts]
+        - [web in action]
+        - [MJD Web Design]
+        - [Kirupa Chinnathambi]
+        - [I Hate tomatoes]
+        - [simple programmer]
+        - [unAcademy]
+        - [Fox learn]
+        - [programming]
+        - [Davids videos]
+        - [code Archery]
+        - [Jonathan Blow]
+        - [learn programming]
+        - [the go programming language]
+        - [programming experts]
+        - [SF python]
+        - [Synthetic programming]
+        - [programming for people]
+        - [JavaAid - Coding interview Preparation]
+        - [Junior developer central]
+        - [Immortal coders]
+        - [AshProgHelp - programming Help]
+        - [thumb IKR - programming examples]
+        - [Extern code]
+        - [Itorian]
+        - [programming tutorials]
+        - [kudvenkat]
+        - [MyCodeschool]
+        - [Slide Nerd]
+        - [Cave of programming]
+        - [coding entrepreneurs]
+        - [Code school]
+        - [charger games]
+        - [WiredWiki]
+        - [easy learn tutorial]
+        - [michiel Wouters]
+        - [live Lessons]
 
 
 ### Youtube Course Playists 📼 : 
