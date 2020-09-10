@@ -452,6 +452,167 @@
     - [TheNew Boston](https://www.youtube.com/user/thenewboston)
     - [Tokyo's EdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
 
+- Flutter : 
+    - [Official Flutter Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw/videos)
+    - [MtechViral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
+    - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+    - [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q/videos)
+    - [Marcus NG](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA/videos)
+    - [Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ/videos)
+    - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/videos)
+    - [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q/videos)
+    - [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/videos)
+    - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+- PHP :
+    - [CodeCourse](https://www.youtube.com/user/phpacademy)
+    - [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
+    - [Brad Hussey](https://www.youtube.com/user/hussey17)
+    - [PHP RoundTable](https://www.youtube.com/user/PHPRoundtable)
+    - [Jream](https://www.youtube.com/user/JREAMdesign)
+    - [Dave Hollingworth](https://www.youtube.com/channel/UCi3TM45fvoNJMGsXeuQl3KQ/videos)
+    - [TheNew Boston](https://www.youtube.com/user/thenewboston)
+    - [PHP Gurukul](https://www.youtube.com/c/Phpgurukulblog/featured)
+
+- React : 
+    - [Codevolution](https://www.youtube.com/c/Codevolution)
+    - [Academind](https://www.youtube.com/c/Academind)
+    - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+    - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+    - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+    - [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
+    - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+    - [TechSith](https://www.youtube.com/user/techSithTube/featured)
+    - [LearnCode Academy](https://www.youtube.com/c/learncodeacademy)
+    - [Java Guides](https://www.youtube.com/c/JavaGuides)
+
+
+    - Mixed programming channels :
+        - [learn code.academy]() - (HTML, CSS, JS, RESPONSIVE DESIGN, REACT, NODE, ANGULAR, DOCKER, DEVOPS, SERVER-ADMINISTRATION, DEPLOYMENT)
+        - [Pusher](https://www.youtube.com/c/Pusher_realtime/featured)
+        - [TechSith](https://www.youtube.com/user/techSithTube/featured)
+
+- Traversy Media - 
+- Code course
+- The new Boston
+- Wes bos 
+- fun fun function
+- level tuts
+- udacity
+- coder’s guide 
+- helping develop 
+- google developers
+- learn web code
+- web dev mentors
+- Derek banas
+- hak5
+- the cherno project
+- java brains 									
+- tree house
+- Eli the computer guy
+- programming knowledge
+- edureka
+- programming with mosh
+- design course
+- Hitesh Choudhary
+- Academind
+- Adam Khoury
+- darrel wilson
+- stefan mischook
+- Joe Parys academy
+- Jream
+- 1st web designer
+- neil Rowe
+- joshua fluke
+- jesse showalter
+- Chris coyier
+- Chris Sean
+- tuts+ web design
+- Naveed ziarab
+- Joseph smith
+- brackeys
+- quill18creates
+- khan Academy
+- Source Decoded
+- php academy
+- mike locke
+- pfltuts
+- cs geeks
+- NDC conferences
+- dev ternity
+- goto conferences
+- JS Nuggets
+- free code camp
+- google chrome developers
+- wp beginner - wordpress tutorials 
+- Mackenzie child
+- Starhere.fm
+- brad hussy
+- code geek
+- google web designer
+- css tricks
+- dev.Ed
+- tech lead
+- Tyler Moore
+- coding the smart way
+- java
+- Adam bien
+- thoughts on java
+- devoxx
+- vjug
+- Sebastian Daschner
+- infoQ
+- nightHacking
+- jet brains tv
+- spring developer
+- souJava
+- the coding train
+- AL Sweigart
+- christian thompson
+- CS Dojo
+- Siraj raval 
+- clever programmer
+- brad traversy
+- Quentin watt tutorials
+- the digicraft
+- easy dev tuts
+- web in action
+- MJD Web Design
+- Kirupa Chinnathambi
+- I Hate tomatoes
+- simple programmer
+- unAcademy
+- Fox learn
+- programming
+- Davids videos
+- code Archery
+- Jonathan Blow
+- learn programming
+- the go programming language
+- programming experts
+- SF python
+- Synthetic programming
+- programming for people
+- JavaAid - Coding interview Preparation
+- Junior developer central
+- Immortal coders
+- AshProgHelp - programming Help
+- thumb IKR - programming examples
+- Extern code
+- Itorian
+- programming tutorials
+- kudvenkat
+- MyCodeschool
+- Slide Nerd
+- Cave of programming
+- coding entrepreneurs
+- Code school
+- charger games
+- WiredWiki 
+- easy learn tutorial
+- michiel Wouters
+- live Lessons
+
 
 ### Youtube Course Playists 📼 : 
 
