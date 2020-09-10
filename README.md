@@ -455,9 +455,11 @@
 ### Youtube Course Playists 📼 : 
 
 - [Android]()
+- [Flutter]()
 - [Python]()
 - [React]()
 - [PHP]()
+- [Java]()
 - [JavaScript]()
 - [Projects]()
 - [Interview]()
