@@ -165,6 +165,26 @@
 
 ### tools ⚙ :
 
+- Flutter : 
+    - [Flutter Studio](https://flutterstudio.app/)
+    - [Flutter Awesome List](https://github.com/sunilkumarvalmiki/awesome-flutter)
+
+- Javascript : 
+    - [OverAPI](https://overapi.com/javascript)
+    - [Mastering JS](https://masteringjs.io/)
+    - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
+    - [Javascript Learning Resource](https://github.com/CodementorIO/JavaScript-Learning-Resources)
+    - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+
+- Web Development : 
+    - [Awesome Web Development Resources](https://github.com/mrmartineau/awesome-web-dev-resources)
+    - [Web Development Resources](https://github.com/MilanAryal/web-development-resources)
+    - [FrontEnd Developer Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+
+- Mobile Development : 
+    - [Awesome-Fuse](https://github.com/fuse-compound/awesome-fuse)
+    - []()
+
 - CSS :
     - [Neumorphism](https://neumorphism.io/) - neuromorphic CSS generator
     - [Neuromorphic.Design](https://neumorphic.design/) - Neuromorphic CSS generator
@@ -697,3 +717,10 @@
 - [Image Procesing](https://t.me/Opencv)
 - [Flutter dev](https://t.me/flutterDev)
 - [Flutter](https://t.me/FlutterIndia)
+
+
+### Articles ✏ : 
+
+- [100+ FREE Resources to Learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)
+- [Awesome List](https://github.com/sindresorhus/awesome)
+- []()
