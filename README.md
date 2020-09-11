@@ -766,5 +766,6 @@
 ### Articles: 
 
 - [100+ FREE Resources to Learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)
-- [Awesome List](https://github.com/sindresorhus/awesome)
+- [Over 20 Resources to Advance Your JavaScript Skills](https://medium.com/better-programming/over-20-resources-to-advance-your-javascript-skills-1d5758ca1bf2)
+- [Top React JS Components and Libraries](https://www.credencys.com/blog/react-js-components/)
 - []()
