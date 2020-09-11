@@ -190,6 +190,16 @@
 - Flutter : 
     - [Flutter Studio](https://flutterstudio.app/)
     - [Flutter Awesome List](https://github.com/sunilkumarvalmiki/awesome-flutter)
+    - [panache](https://rxlabz.github.io/panache/#/)
+    - [Code Magic](https://codemagic.io/start/)
+    - [Appetize](https://appetize.io/)
+    - [TestMagic](https://testmagic.io/)
+    - [ScreenShots](https://github.com/mmcc007/screenshots)
+    - [Supernova](https://www.supernova.io/)
+    - [XD to Flutter Plugin: Convert XD Designs into Working Code to Build Native Apps with Google’s Flutter](https://blog.adobe.com/en/2019/12/11/xd-flutter-plugin-generate-dart-code-design-elements.html#gs.fvqmpa)
+    - [Pb.Dev](https://pub.dev/)
+    - [Vysor](https://www.vysor.io/)
+    - [Rive App](https://rive.app/)
 
 - Javascript : 
     - [OverAPI](https://overapi.com/javascript)
@@ -770,7 +780,7 @@
 - [Top React JS Components and Libraries](https://www.credencys.com/blog/react-js-components/)
 - [Top 9 Libraries for Data Visualization in Python and R](https://towardsdatascience.com/top-9-libraries-for-data-visualization-in-python-and-r-51bdf08e5d54)
 - [TPOT for Automated Machine Learning in Python](https://machinelearningmastery.com/tpot-for-automated-machine-learning-in-python/)
-- [10 BEST PYTHON BOOKS FOR EVERY DATA SCIENTIST TO LEARN PYTHON](https://www.analyticsinsight.net/10-best-python-books-every-data-scientist-learn-python/)
+- [10 Best Python Books For Every Data Scientist To Learn Python](https://www.analyticsinsight.net/10-best-python-books-every-data-scientist-learn-python/)
 - [What is a PWA ?](https://www.c-sharpcorner.com/article/what-is-a-pwa/)
 - [7 React Libraries That Will Make Your Life Easier](https://medium.com/better-programming/7-react-libraries-that-will-make-your-life-easier-1c760a6cd1cf)
 - [Develop and sell a Python API — from start to end tutorial](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)
