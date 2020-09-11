@@ -8,8 +8,8 @@
 <p align="center"><br/></p>
 
 ## Table Of Contents :
-- [Online Code Editors](#Online-Code-Editors)
-- [Programming E-books](#Programming-E-books)
+- [Online Code Editors](#online-code-editors)
+- [Programming E-books](#programming-e-books)
 - [Free Web Hosting Providers](#Free-Web-Hosting-Providers)
 - [Programming Websites & Blogs](#Programming-Websites-&-Blogs)
 - [Colors](#Colors)
