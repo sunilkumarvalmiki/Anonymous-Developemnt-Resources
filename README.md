@@ -531,7 +531,7 @@
     - [thoughts on java](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw)
     - [JavaAid - Coding interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA)
 
-    - Mixed programming channels :
+- Mixed programming channels :
         - [learn code.academy](https://www.youtube.com/c/learncodeacademy) - WEB DEVELOPMENT, REACT.JS,    NODE.JS, ANGULAR, DOCKER, MEAN, JQUERY
         - [Pusher](https://www.youtube.com/c/Pusher_realtime/featured) - JAVA, JAVASCRIPT, PROGRAMMING-CONFERENCES
         - [TechSith](https://www.youtube.com/user/techSithTube/featured) - JAVASCRIPT, REACT.JS, DATA-STRUCTURES, NODE.JS, INTERVIEW
@@ -633,7 +633,7 @@
         - [live Lessons](https://www.youtube.com/user/livelessons) - PYTHON, JAVA, PROGRAMMING-TIPS
 
 
-### Youtube Course Playists 📼 : 
+### Youtube Course Playlists 📼 : 
 
 - [Android](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
 - [Flutter](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NsKzXP3LFhr5ybAH86Nt_B)
@@ -647,15 +647,52 @@
 
 
 ### Telegram Channels & Groups : 
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+    - [JavaScript Daily](https://t.me/javascriptdaily)
+    - [JavaScript Tutorials](https://t.me/javascript_Programming)
+    - [JavaScript Room](https://t.me/room_js)
+    - [Javascript](https://thedevs.network/#community)
+    - [C/C++](https://t.me/programminginc)
+    - [Github Repos](https://t.me/github_repos)
+    - [Python](https://t.me/Python)
+    - [.Net Dev](https://t.me/dotnetgram)
+    - [Machine Learning world](https://t.me/ml_world)
+    - [Angular Developer](https://t.me/angularDevelopers)
+    - [PHP](https://thedevs.network/#community)
+    - [Github Trends](https://t.me/githubtrending)
+    - [Designers room UI/UX](https://t.me/theuiuxdesigners)
+    - [PHP Developers](https://t.me/codeslide)
+    - [Codeigniter Developers](https://t.me/codeigniter4)
+    - [Amazing PHP](https://t.me/phpme)
+    - [The FrontEnd](https://t.me/thefrontend)
+    - [FrontEnd World](https://t.me/front_end_first)
+    - [We Are Coders](https://t.me/WeAreCoderss)
+    - [The Devs](https://t.me/thedevs)
+    - [Programming Tips](https://t.me/ProgrammingTip)
+    - [Coding Master](https://t.me/codingmaster52)
+    - [DataFlair](https://t.me/dataflair)
+    - [Machine Learning](https://t.me/machinelearning24x7)
+    - [Tech Guide](https://t.me/TechGuide)
+    - [Android Resid](https://t.me/AndroidResId)
+    - [Data Science by ODS](https://t.me/opendatascience)
+    - [Dev.to](https://t.me/bestofdev)
+    - [IOS Dev](https://t.me/iosdevio)
+    - [web Dev](https://t.me/webdel)
+    - [Web development](https://t.me/webdevcode)
+    - [Python Pundits](https://t.me/pythonpundits)
+    - [Programming Challenges](https://t.me/prograchallenges)
+    - [Computer Science & Programming](https://t.me/computer_science_and_programming)
+    - [Dev Champions](https://t.me/devchampions)
+    - [The Art of Programming](https://t.me/theprogrammingart)
+    - [Programming Tips](https://t.me/protip516)
+    - [I Know Python](https://t.me/i_know_python)
+    - [Python Resources](https://t.me/pythonres)
+    - [Best UI/UX Ideas](https://t.me/best_UI_UX_Designs)
+    - [Tailwind CSS Tips](https://t.me/tailwindcss_tips)
+    - [Codeigniter](https://t.me/codeigniter)
+    - [Python Resources](https://t.me/PythonResource)
+    - [Programmer Plus](https://t.me/programmer_plus)
+    - [JS World](https://t.me/java_script_world)
+    - [Programming E-books](https://t.me/javaebooks)
+    - [Image Procesing](https://t.me/Opencv)
+    - [Flutter dev](https://t.me/flutterDev)
+    - [Flutter India](https://t.me/FlutterIndia)
