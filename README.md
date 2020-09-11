@@ -422,15 +422,19 @@
 
 - [Frontend](https://roadmap.sh/frontend) - [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [Backend](https://roadmap.sh/backend)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
-- [React](https://roadmap.sh/react) - [Article](https://javarevisited.blogspot.com/2018/10/the-2018-react-developer-roadmap.html)
-- [React New](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan) - [Article](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
-- [Android](https://roadmap.sh/android) - [Article](https://github.com/MindorksOpenSource/android-developer-roadmap)
-- [Andriod 2020](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf) - [Article](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf)
+- [React <img src="icons/react.png" alt="react icon" width="30px"/>](https://roadmap.sh/react) - [Article](https://javarevisited.blogspot.com/2018/10/the-2018-react-developer-roadmap.html)
+- [React New <img src="icons/react.png" alt="react icon" width="30px"/>](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan) - [Article](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
+- [Android <img src="icons/android.png" alt="andriod icon" width="30px"/>](https://roadmap.sh/android) - [Article](https://github.com/MindorksOpenSource/android-developer-roadmap)
+- [Andriod 2020 <img src="icons/android.png" alt="andriod icon" width="30px"/>](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf) - [Article](https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf)
 - [Devops](https://roadmap.sh/devops)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [Full-Stack Web Developer 2020](https://medium.com/codingthesmartway-com-blog/the-2020-roadmap-to-fullstack-web-development-6d1713697a27) - [Article](https://medium.com/codingthesmartway-com-blog/the-2020-roadmap-to-fullstack-web-development-6d1713697a27)
-- [Modern Javascript Learning path 2020](https://javascript.info/) - [Article](https://www.youtube.com/watch?v=gSnbnYffz7k)
-- [PHP](https://github.com/odan/learn-php) - [Article](https://github.com/odan/learn-php)
-
+- [Modern Javascript Learning path 2020  <img src="icons/javascript.png" alt="javascript icon" width="30px"/>](https://javascript.info/) - [Article](https://www.youtube.com/watch?v=gSnbnYffz7k)
+- [PHP <img src="icons/php.png" alt="php icon" width="30px"/>](https://github.com/odan/learn-php) - [Article](https://github.com/odan/learn-php)
+- [Java <img src="icons/java.png" alt="java icon" width="30px"/>](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html) - [Article](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)
+- [Java <img src="icons/java.png" alt="java icon" width="30px"/>](https://www.decipherzone.com/blog-detail/roadmap-java-developers-2020) - [Article](https://www.decipherzone.com/blog-detail/roadmap-java-developers-2020)
+- [Python <img src="icons/python.png" alt="python icon" width="30px"/>](https://medium.com/edureka/how-to-become-a-python-developer-462a0093f246) - [Article](https://medium.com/edureka/how-to-become-a-python-developer-462a0093f246)
+- [Python <img src="icons/python.png" alt="python icon" width="30px"/>](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509) - [Article](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509)
+- [DataScience <img src="icons/datascience.png" alt="datascience icon" width="30px"/>](https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404) - [Article](https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404)
 
 ### Learning Platforms: 
 
@@ -680,13 +684,13 @@
 
 ### Youtube Course Playlists: 
 
-- [Android <img src="icons/java.png" alt="java icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
-- [Flutter](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NsKzXP3LFhr5ybAH86Nt_B)
-- [Python](https://www.youtube.com/playlist?list=PLG6ZrfNknN3Nr-lCvwc60AOU4TNNYSa4_)
-- [React](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OZhivnKbCXLv_pQO9SZ1cH)
-- [PHP](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OHI4TP1bPabugCcZ6gTj0a)
-- [Java](https://www.youtube.com/playlist?list=PLIbNxAnM0z4jruudl_pe41fvJ6_LMBdwZ)
-- [JavaScript](https://www.youtube.com/playlist?list=PLG6ZrfNknN3MvlWBy7By_b4Gl36RJSwtN)
+- [Android <img src="icons/android.png" alt="android icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
+- [Flutter <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NsKzXP3LFhr5ybAH86Nt_B)
+- [Python <img src="icons/python.png" alt="python icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3Nr-lCvwc60AOU4TNNYSa4_)
+- [React <img src="icons/react.png" alt="react icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OZhivnKbCXLv_pQO9SZ1cH)
+- [PHP <img src="icons/php.png" alt="php icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OHI4TP1bPabugCcZ6gTj0a)
+- [Java <img src="icons/java.png" alt="java icon" width="30px"/>](https://www.youtube.com/playlist?list=PLIbNxAnM0z4jruudl_pe41fvJ6_LMBdwZ)
+- [JavaScript <img src="icons/javascript.png" alt="javascript icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3MvlWBy7By_b4Gl36RJSwtN)
 - [Projects](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NRdDPPfB4ZirJqtEtaBuZE)
 - [Interview](https://www.youtube.com/playlist?list=PLG6ZrfNknN3MiNzut_9ldEvz7C9JbHaYx)
 
