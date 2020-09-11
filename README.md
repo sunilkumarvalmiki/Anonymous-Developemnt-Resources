@@ -502,6 +502,7 @@
     - [Thanable](https://www.youtube.com/channel/UCL8AMKLVecaaUs86eCt0zyw/videos)
     - [JS Nuggets](https://www.youtube.com/channel/UC-1l0Ew_jMorWJ0d9RWk5wg)
     - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+    - [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
 
 - Java : 
     - [Java](https://www.youtube.com/user/java)
@@ -569,52 +570,51 @@
         - [Chris Sean](https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg)
         - [tuts+ web design](https://www.youtube.com/user/webdesigntutsplus)
         - [Naveed ziarab](https://www.youtube.com/c/NaveedZiarab/featured)
-        - [Joseph smith](https://www.youtube.com/user/TheHelpingDevelop)
-        - [brackeys](https://www.youtube.com/user/Brackeys)
-        - [quill18creates](https://www.youtube.com/user/quill18creates)
-        - [khan Academy](https://www.youtube.com/user/khanacademy)
-        - [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
-        - [mike locke](https://www.youtube.com/user/mlwebco)
-        - [pfltuts](https://www.youtube.com/user/pfltuts)
-        - [cs geeks](https://www.youtube.com/channel/UCFpCo01pOGe4tEbOTnn4_UQ)
-        - [NDC conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
-        - [dev ternity](https://www.youtube.com/channel/UCvzMZyJZZ3XYQwbvOACVYrQ)
-        - [goto conferences](https://www.youtube.com/user/GotoConferences)
-        - [free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-        - [google chrome developers](https://www.youtube.com/user/ChromeDevelopers)
-        - [wp beginner - wordpress tutorials](https://www.youtube.com/user/wpbeginner)
-        - [Mackenzie child](https://www.youtube.com/user/mackenziechild)
-        - [Starhere.fm](https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg)
-        - [brad hussy](https://www.youtube.com/user/hussey17)
-        - [code geek](https://www.youtube.com/channel/UCBo8gKX8SCsgplZwln-45qw)
-        - [google web designer](https://www.youtube.com/user/GoogleWebDesigner)
-        - [css tricks](https://www.youtube.com/user/realcsstricks)
-        - [dev.Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-        - [tech lead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
-        - [Tyler Moore](https://www.youtube.com/user/Conutant)
-        - [coding the smart way](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
-        - [devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
-        - [vjug](https://www.youtube.com/user/virtualJUG)
+        - [Joseph smith](https://www.youtube.com/user/TheHelpingDevelop)- 
+        - [brackeys](https://www.youtube.com/user/Brackeys) - C#, UNITY, BLENDER
+        - [quill18creates](https://www.youtube.com/user/quill18creates) - UNITY, C#, C++
+        - [khan Academy](https://www.youtube.com/user/khanacademy) - DATA-STRUCTURES & ALGORITHIMS, PROGRAMMING-TIPS & TRICKS
+        - [mike locke](https://www.youtube.com/user/mlwebco) - UI/UX, PROGRAMMING-TIPS & TRICKS, INRERVIEWS-TIPS
+        - [pfltuts](https://www.youtube.com/user/pfltuts) - SASS, PHOTOSHOP, LOGO DESIGNING, ADOBE-TOOLS
+        - [cs geeks](https://www.youtube.com/channel/UCFpCo01pOGe4tEbOTnn4_UQ) - DATA-STRUCTURES & ALGORITHIMS, PYTHON, ANGUALR, ANDROID, PHOTOSHOP, CODEIGNITER, SCALA, RUBY, KOTLIN, GO, JAVA, JAVASCRIPT, BOOTSTRAP, C++, DJANGO, NODE.JS, IONIC, MEAN, RUBY ON RAILS, C, PHP, HTML, CSS, MYSQL, LARAVEL, REACT.JS, R-PROGRAMMING,  C#, MAGNETO, MONGO-DB
+        - [NDC conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) - PROGRAMMING-CONFERENCES, INTERVIEWS, PROGRAMMING-TIPS & TRICKS
+        - [dev ternity](https://www.youtube.com/channel/UCvzMZyJZZ3XYQwbvOACVYrQ) - DEVELOPER-CONFERENCES, PROGRAMMING-TIPS & TRICKS
+        - [goto conferences](https://www.youtube.com/user/GotoConferences) - PROGRAMMING-CONFERENCES, PROGRAMMING-TIPS, TRICKS, IDEAS
+        - [free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - PYTHON, VUE.JS, DATA-STRUCTURES, LARAVEL, DJANGO, JAVA, CSS, GAME-PROGRAMMING, UNITY, UNREAL ENGINE
+        - [google chrome developers](https://www.youtube.com/user/ChromeDevelopers) - GOOGLE-NEWS, UPDATES, EVENTS, CONFERENCES
+        - [wp beginner - wordpress tutorials](https://www.youtube.com/user/wpbeginner) - WORDPRESS
+        - [Mackenzie child](https://www.youtube.com/user/mackenziechild) - UI/UX, WEB-DESIGNING, DESIGNING-TIPS & TRICKS
+        - [Starhere.fm](https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg) - WEB DEVELOPEMENT, RUBY ON RAILS, PROGRAMMING-TIPS
+        - [brad hussy](https://www.youtube.com/user/hussey17) - HTML, CSS, JAVASCRIPT, INTERVIEWS, PROGRAMMING-TIPS & TRICKS
+        - [code geek](https://www.youtube.com/channel/UCBo8gKX8SCsgplZwln-45qw) - HTML, CSS, JAVASCRIPT, PYTHON PHP, MONGODB, VUE.JS, JSON, MEAN, REACT
+        - [google web designer](https://www.youtube.com/user/GoogleWebDesigner) - WEB DESIGNING, WIREFRAMES, UI/UX
+        - [css tricks](https://www.youtube.com/user/realcsstricks) - CSS, HTML, JAVASCRIPT, WEB-DESIGNING
+        - [dev.Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) - HTML, CSS, JAVASCRIPT, UI/UX, PYTHON, REACT.JS
+        - [tech lead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - MENTORSHIP, PROGRAMMING-TIPS & TRICKS, INTERVIEWS
+        - [Tyler Moore](https://www.youtube.com/user/Conutant) - WORDPRESS
+        - [coding the smart way](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ) - JAVASCRIPT, REACT.JS, MERN, GASTBY, VUE.JS, ANGULAR, RXJS
+        - [devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg) - PROGRAMMING-CONFERENCES, INTERVIEW-TIPS, INTERVIEWS
+        - [vjug](https://www.youtube.com/user/virtualJUG) - INTERVIEWS, CONFERENCES
         - [Sebastian Daschner](https://www.youtube.com/channel/UCG21GE2Go3vkj7mrs675ysA)
-        - [infoQ](https://www.youtube.com/user/MarakanaTechTV)
-        - [nightHacking](https://www.youtube.com/channel/UCT0bL2CQIk1eANeXk57mxaA)
-        - [jet brains tv](https://www.youtube.com/user/JetBrainsTV)
-        - [the coding train](https://www.youtube.com/user/shiffman)
-        - [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
-        - [traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
-        - [Quentin watt tutorials](https://www.youtube.com/user/QuentinWatt)
-        - [the digicraft](https://www.youtube.com/user/TheDigiCraft)
-        - [easy dev tuts](https://www.youtube.com/user/easydevtuts)
-        - [web in action](https://www.youtube.com/user/webinaction)
-        - [MJD Web Design](https://www.youtube.com/user/mjdwebdesign)
-        - [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
-        - [I Hate tomatoes](https://www.youtube.com/user/ihatetomatoesblog)
-        - [simple programmer](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig)
-        - [Fox learn](https://www.youtube.com/channel/UC8inCnD25Es0VLokfmhko5g)
-        - [UnAcademy Programming](https://www.youtube.com/channel/UCLd1zNPVDBwWBx73ME-K80g)
-        - [Davids videos](https://www.youtube.com/c/thornwebdesign/featured)
-        - [code Archery](https://www.youtube.com/channel/UCA2YOQHuWzVn1TWmlK5XYxA)
-        - [Jonathan Blow](https://www.youtube.com/user/jblow888)
+        - [infoQ](https://www.youtube.com/user/MarakanaTechTV) - ARTIFICIAL-INTELLIGENCE, MACHINE-LEARNING, DATA-ENGINEERING, JAVA, DEVOPS, JAVASCRIPT, NODE.JS, DART, PYTHON, ANDROID
+        - [NightHacking](https://www.youtube.com/channel/UCT0bL2CQIk1eANeXk57mxaA) - JAVA-CONFERENCES, JAVASCRIPT-CONFERENCES
+        - [jet brains tv](https://www.youtube.com/user/JetBrainsTV) - PROGRAMMING-TIPS & TRICKS, PYCHARM, PHPSTORM, WEBSTORM, INTELLIJ IDE, CLION, GOLAND, RIDER, RUBYMINE, APPCODE, KOTLIN, ASP.NET, DJANGO
+        - [the coding train](https://www.youtube.com/user/shiffman) - MACHINE LEARNING, TENSORFLOW, ALGORITHIMS
+        - [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) - PYTHON, JAVASCRIPT, REACT.JS, 
+        - [traversy Media](https://www.youtube.com/c/TraversyMedia/featured) - HTML, CSS, JAVASCRIPT, NODE.JS, PYTHON, REACT.JS, MERN, DJANGO, PHP, VUE.JS, TWITTER-BOOSTRAP, LARAVEL, CODEIGNITER, JQUERY, WORDPRESS, ANGULAR, D3.JS
+        - [Quentin watt tutorials](https://www.youtube.com/user/QuentinWatt) - HTML, CSS, JAVASCRIPT, REACT.JS, PHP, WORDPRESS, MYSQL, PRESTA-SHOP
+        - [the digicraft](https://www.youtube.com/user/TheDigiCraft) - NODE.JS, GIT, TWITTER-BOOTSTRAP, CSS, PHP, AJAX, JQUERY, 
+        - [easy dev tuts](https://www.youtube.com/user/easydevtuts) - FOUNDATION ,BOOTSTRAP, WORDPRESS
+        - [web in action](https://www.youtube.com/user/webinaction) - HTML, CSS, JAVASCRIPT, JQUERY, PHP
+        - [MJD Web Design](https://www.youtube.com/user/mjdwebdesign) - WEB DESIGNING
+        - [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa) - REACT.JS, JAVASCRIPT
+        - [I Hate tomatoes](https://www.youtube.com/user/ihatetomatoesblog) - REACT.JS, GIT & GITHUB, GREEN-SOCK
+        - [simple programmer](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig) - PROGRAMMING-TIPS, INTERVIEW-TIPS
+        - [Fox learn](https://www.youtube.com/channel/UC8inCnD25Es0VLokfmhko5g) - C#, ASP.NET, VB.NET, SQL
+        - [UnAcademy Programming](https://www.youtube.com/channel/UCLd1zNPVDBwWBx73ME-K80g) - JAVASCRIPT, C++
+        - [Davids videos](https://www.youtube.com/c/thornwebdesign/featured) - HTML, PHP, MYSQL, CSS, JAVASCRIPT, FIREBASE, AJAX
+        - [code Archery](https://www.youtube.com/channel/UCA2YOQHuWzVn1TWmlK5XYxA) - C++, JAVA, DATA-STRUCTURES
+        - [Jonathan Blow](https://www.youtube.com/user/jblow888) - GAME-DESIGNING, UNITY
         - [learn programming](https://www.youtube.com/c/TheLearnProgrammingChannel/featured) - JAVA, ANDROID, PROGRAMMING-TIPS& TRICKS, C++
         - [the go programming language](https://www.youtube.com/user/gocoding) - GO PROPGRAMMING TUTORIALS
         - [Synthetic programming](https://www.youtube.com/user/SyntheticProgramming) - JAVA-PROJECTS, PYTHON-PROJECTS, BATCH-PROJECTS
