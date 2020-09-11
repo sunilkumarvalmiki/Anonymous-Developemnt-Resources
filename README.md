@@ -549,7 +549,7 @@
     - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
     - [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
 
-- Java <img src="icons/php.png" alt="php icon" width="30px"/> : 
+- Java <img src="icons/java.png" alt="java icon" width="30px"/> : 
     - [Java](https://www.youtube.com/user/java)
     - [Adam Bien](https://www.youtube.com/user/bienadam)
     - [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
@@ -577,7 +577,7 @@
     - [JavaAid - Coding interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA)
 
 - Mixed programming channels :
-    - [learn code.academy](https://www.youtube.com/c/learncodeacademy) - WEB DEVELOPMENT, REACT.JS,    NODE.JS, ANGULAR, DOCKER, MEAN, JQUERY
+    - [learn code.academy](https://www.youtube.com/c/learncodeacademy) - WEB DEVELOPMENT, REACT.JS, NODE.JS, ANGULAR, DOCKER, MEAN, JQUERY
     - [Pusher](https://www.youtube.com/c/Pusher_realtime/featured) - JAVA, JAVASCRIPT, PROGRAMMING-CONFERENCES
     - [TechSith](https://www.youtube.com/user/techSithTube/featured) - JAVASCRIPT, REACT.JS, DATA-STRUCTURES, NODE.JS, INTERVIEW
     - [Code course](https://www.youtube.com/user/phpacademy) - PHP LARAVEL, JAVRIPT, HTML, CSS, GIT & GITHUB, MYSQL, AJAX
@@ -680,7 +680,7 @@
 
 ### Youtube Course Playlists: 
 
-- [Android](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
+- [Android]<img src="icons/java.png" alt="java icon" width="30px"/>(https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
 - [Flutter](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NsKzXP3LFhr5ybAH86Nt_B)
 - [Python](https://www.youtube.com/playlist?list=PLG6ZrfNknN3Nr-lCvwc60AOU4TNNYSa4_)
 - [React](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OZhivnKbCXLv_pQO9SZ1cH)
