@@ -512,7 +512,7 @@
     - [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/videos)
     - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-- PHP :
+- PHP <img src="icons/php.png" alt="php icon" width="30px"/> :
     - [CodeCourse](https://www.youtube.com/user/phpacademy)
     - [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
     - [Brad Hussey](https://www.youtube.com/user/hussey17)
@@ -522,7 +522,7 @@
     - [TheNew Boston](https://www.youtube.com/user/thenewboston)
     - [PHP Gurukul](https://www.youtube.com/c/Phpgurukulblog/featured)
 
-- React : 
+- React <img src="icons/react.png" alt="react icon" width="30px"/> : 
     - [Codevolution](https://www.youtube.com/c/Codevolution)
     - [Academind](https://www.youtube.com/c/Academind)
     - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
@@ -535,7 +535,7 @@
     - [Java Guides](https://www.youtube.com/c/JavaGuides)
     - [Dev Mentor Live](https://www.youtube.com/c/devmentorlive/videos)
 
-- Javascript :
+- Javascript <img src="icons/javascript.png" alt="javascript icon" width="30px"/> :
     - [Dev Mentor Live](https://www.youtube.com/c/devmentorlive/videos)
     - [Ajinkya X](https://www.youtube.com/channel/UCuB4FSBjofpagXnBlHQUocA)
     - [SkewCode](https://www.youtube.com/channel/UC2OlawNLNAD7xDQYNGl26wQ/videos)
@@ -549,7 +549,7 @@
     - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
     - [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
 
-- Java : 
+- Java <img src="icons/php.png" alt="php icon" width="30px"/> : 
     - [Java](https://www.youtube.com/user/java)
     - [Adam Bien](https://www.youtube.com/user/bienadam)
     - [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
