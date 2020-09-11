@@ -439,7 +439,7 @@
 - [Learn Anything](https://learn-anything.xyz/)
 
 
-### Youtube Programming Channels <img src="youtube.png" alt="youtube icon" style="float: left;" /> :
+### Youtube Programming Channels <img src="youtube.png" alt="youtube icon" width="50px"/> :
 
 - Android :
     - [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
