@@ -183,9 +183,9 @@
 
 - Mobile Development : 
     - [Awesome-Fuse](https://github.com/fuse-compound/awesome-fuse)
-    - []()
 
 - CSS :
+    - [CSS Matic](https://www.cssmatic.com/) - CSS CUstomization Tool
     - [Neumorphism](https://neumorphism.io/) - neuromorphic CSS generator
     - [Neuromorphic.Design](https://neumorphic.design/) - Neuromorphic CSS generator
     - [Soft UI](https://www.softui.io/) - Neuromorphic CSS generator
@@ -197,6 +197,9 @@
     - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - css grid generator
     - [Stickybits](https://dollarshaveclub.github.io/stickybits/) - css position polyfill
 
+- [Free For Dev](https://github.com/ripienaar/free-for-dev) - A list of Free Resources for Developers 
+- [Map Style](https://mapstyle.withgoogle.com/) - Google Maps Customization Tool
+- [Snazzy Maps](https://snazzymaps.com/) - Maps Customization Tool
 - [Can i use](https://caniuse.com/) - Broswer support
 - [HTML5 Test](https://html5test.com/) - Browser support
 - [Uglify](https://skalman.github.io/UglifyJS-online/) - JS Minifier
@@ -436,7 +439,7 @@
 - [Learn Anything](https://learn-anything.xyz/)
 
 
-### Youtube Programming Channels 📹 :
+### Youtube Programming Channels ![Youtube](youtube.png) :
 
 - Android :
     - [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
@@ -718,6 +721,18 @@
 - [Flutter dev](https://t.me/flutterDev)
 - [Flutter](https://t.me/FlutterIndia)
 
+
+### Competetive Programming 💻 : 
+
+- [geeks for geeks](https://www.geeksforgeeks.org/category/competitive-programming/)
+- [top coder](https://www.topcoder.com/)
+- [hacker rank](https://www.hackerrank.com/)
+- [code chef](https://www.codechef.com/)
+- [spoj](https://www.spoj.com/)
+- [code forces](https://codeforces.com/)
+- [project euler](https://projecteuler.net/)
+- [hacker earth](https://www.hackerearth.com/)
+- [coder byte](https://www.coderbyte.com/)
 
 ### Articles ✏ : 
 
