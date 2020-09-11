@@ -680,7 +680,7 @@
 
 ### Youtube Course Playlists: 
 
-- [Android]<img src="icons/java.png" alt="java icon" width="30px"/>(https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
+- [Android <img src="icons/java.png" alt="java icon" width="30px"/>](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
 - [Flutter](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NsKzXP3LFhr5ybAH86Nt_B)
 - [Python](https://www.youtube.com/playlist?list=PLG6ZrfNknN3Nr-lCvwc60AOU4TNNYSa4_)
 - [React](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OZhivnKbCXLv_pQO9SZ1cH)
