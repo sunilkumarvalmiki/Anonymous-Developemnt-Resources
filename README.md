@@ -24,7 +24,7 @@
 - [Templates & Themes & Snippets 💻](#Templates-&-Themes-&-Snippets)
 - [RoadMaps 🗺](#RoadMaps)
 - [Learning Platforms 📙](#Learning-Platforms)
-- [Youtube Programming Channels](#Youtube-Programming-Channels)
+- [Youtube Programming Channels <img src="icons/youtube.png" alt="youtube icon" width="30px"/>](#Youtube-Programming-Channels)
 - [Youtube Course Playlists 📼](#Youtube-Course-Playlists)
 - [Telegram Channels & Groups](#Telegram-Channels-&-Groups)
 - [Competetive Programming 💻](#Competetive-Programming)
@@ -461,7 +461,7 @@
 - [Learn Anything](https://learn-anything.xyz/)
 
 
-### Youtube Programming Channels <img src="icons/youtube.png" alt="youtube icon" width="30px"/> :
+### Youtube Programming Channels:
 
 - Android <img src="icons/android.png" alt="andriod icon" width="30px"/> :
     - [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
