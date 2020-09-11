@@ -435,6 +435,9 @@
 - [Python <img src="icons/python.png" alt="python icon" width="30px"/>](https://medium.com/edureka/how-to-become-a-python-developer-462a0093f246) - [Article](https://medium.com/edureka/how-to-become-a-python-developer-462a0093f246)
 - [Python <img src="icons/python.png" alt="python icon" width="30px"/>](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509) - [Article](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509)
 - [DataScience <img src="icons/datascience.png" alt="datascience icon" width="30px"/>](https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404) - [Article](https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404)
+- [Flutter <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://github.com/DroidsOnRoids/flutter-roadmap) - [Article](https://github.com/DroidsOnRoids/flutter-roadmap)
+- [Flutter New <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://github.com/olexale/flutter_roadmap) - [Article](https://github.com/olexale/flutter_roadmap)
+- [Flutter 2020 <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b) - [Article](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b)
 
 ### Learning Platforms: 
 
