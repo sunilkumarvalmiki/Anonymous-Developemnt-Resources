@@ -439,9 +439,9 @@
 - [Learn Anything](https://learn-anything.xyz/)
 
 
-### Youtube Programming Channels <img src="youtube.png" alt="youtube icon" width="50px"/> :
+### Youtube Programming Channels <img src="icons/youtube.png" alt="youtube icon" width="30px"/> :
 
-- Android :
+- Android <img src="icons/android.png" alt="andriod icon" width="30px"/> :
     - [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
     - [Android Coding](https://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ)
     - [Stevdza-san](https://www.youtube.com/channel/UCYLAirIEMMXtWOECuZAtjqQ)
@@ -456,7 +456,7 @@
     - [Coding In Flow](https://www.youtube.com/c/codinginflow)
     - [Android Experts](https://www.youtube.com/channel/UC5MtCj2LVwX30SEF-dwXlww)
 
-- Python :
+- Python <img src="icons/python.png" alt="python icon" width="30px"/> :
     - [Al Sweigart](https://www.youtube.com/user/Albert10110)
     - [Anaconda](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
     - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
@@ -478,7 +478,7 @@
     - [Tokyo's EdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
     - [SF python](https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw)
 
-- Flutter : 
+- Flutter <img src="icons/flutter.png" alt="flutter icon" width="30px"/> : 
     - [Official Flutter Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw/videos)
     - [MtechViral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
     - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
