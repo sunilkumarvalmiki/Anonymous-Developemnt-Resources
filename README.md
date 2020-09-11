@@ -615,15 +615,15 @@
         - [Davids videos](https://www.youtube.com/c/thornwebdesign/featured)
         - [code Archery](https://www.youtube.com/channel/UCA2YOQHuWzVn1TWmlK5XYxA)
         - [Jonathan Blow](https://www.youtube.com/user/jblow888)
-        - [learn programming](https://www.youtube.com/c/TheLearnProgrammingChannel/featured)
-        - [the go programming language](https://www.youtube.com/user/gocoding)
-        - [Synthetic programming](https://www.youtube.com/user/SyntheticProgramming)
-        - [programming for people](https://www.youtube.com/c/Programmingforpeople/featured)
-        - [Junior developer central](https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q)
-        - [Immortal coders](https://www.youtube.com/channel/UCy-BleGvC1In8HtihImNLtQ)
-        - [AshProgHelp - programming Help](https://www.youtube.com/channel/UC6dCqXIpU9j2bB7KCFBnwNg)
-        - [thumb IKR - programming examples](https://www.youtube.com/channel/UCeq5BQURAWmH7lCr3Bl9QRA)
-        - [Extern code](https://www.youtube.com/channel/UCfx2dro_w4_MyA19Nm5badg) - 
+        - [learn programming](https://www.youtube.com/c/TheLearnProgrammingChannel/featured) - JAVA, ANDROID, PROGRAMMING-TIPS& TRICKS, C++
+        - [the go programming language](https://www.youtube.com/user/gocoding) - GO PROPGRAMMING TUTORIALS
+        - [Synthetic programming](https://www.youtube.com/user/SyntheticProgramming) - JAVA-PROJECTS, PYTHON-PROJECTS, BATCH-PROJECTS
+        - [programming for people](https://www.youtube.com/c/Programmingforpeople/featured) - UNITY, TIPS & TRICKS IN UNITY
+        - [Junior developer central](https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q) - JAVASCRIPT, ES6, WEB DEVELOPMENT, NODE.JS
+        - [Immortal coders](https://www.youtube.com/channel/UCy-BleGvC1In8HtihImNLtQ) - DEEP LEARNING, MACHINE LEARNING, PYTHON
+        - [AshProgHelp - programming Help](https://www.youtube.com/channel/UC6dCqXIpU9j2bB7KCFBnwNg) - BLAZOR, ASP.NET
+        - [thumb IKR - programming examples](https://www.youtube.com/channel/UCeq5BQURAWmH7lCr3Bl9QRA) - BLAZOR, ASP.NET, C#, DATABASE, XAMARIN
+        - [Extern code](https://www.youtube.com/channel/UCfx2dro_w4_MyA19Nm5badg) - C++, FLUTTER, PYTHON, MEAN, C#, 
         - [Itorian](https://www.youtube.com/user/abhimanyukumarvatsa) - C, AZURE, PL/SQL, JAVA
         - [programming tutorials](https://www.youtube.com/channel/UCuix1GOcmoqqWcHh1W1dWAg) - DATA-STRUCTURES, JAVA
         - [kudvenkat](https://www.youtube.com/user/kudvenkat) - CLOUD-COMPUTING, C#, BLAZOR, SQL, ASP.NET, C, REACT.JS, ANGULAR-6
