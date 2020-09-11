@@ -8,7 +8,7 @@
 <p align="center"><br/></p>
 
 ## Table Of Contents :
-- [Online Code Editors 💻](#online-code-editors-💻-)
+- [Online Code Editors 💻](#online-code-editors)
 - [Programming E-books 📗](#Programming-E-books)
 - [Free Web Hosting Providers 💻](#Free-Web-Hosting-Providers)
 - [Programming Websites & Blogs 📱](#Programming-Websites-&-Blogs)
@@ -31,7 +31,7 @@
 - [Articles ✏](#Articles)
 
 
-### Online Code Editors 💻 :
+### Online Code Editors:
 
 - [Codepen](https://codepen.io/) - 
 
