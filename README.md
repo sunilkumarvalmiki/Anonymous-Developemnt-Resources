@@ -95,7 +95,7 @@
     - Image
 
 
-### Programming E-books 📗 : 
+### Programming E-books: 
 
 - [OpenLibrary](openlibrary.org)
 - [Archieve](archive.org)
@@ -105,7 +105,7 @@
 - [TodayDownloadz](www.todaydownloadz.com)
 - [All E-books](https://all-ebook.info)
 
-### Free Web Hosting Providers 💻 : 
+### Free Web Hosting Providers: 
 
 - [wordpress](https://wordpress.com/)
 - [Wix](https://www.wix.com/)
@@ -118,7 +118,7 @@
 - [Gatsby.js](https://www.gatsbyjs.com/)
 
 
-### Programming Websites & Blogs 📱 :
+### Programming Websites & Blogs:
 
 - [Medium](https://medium.com/)
 - [Morioh](https://morioh.com/)
@@ -146,7 +146,7 @@
 - [RayWenderLich](https://www.raywenderlich.com/)
 
 
-### Colors 🔴 : 
+### Colors: 
 
 - [Material Palette](https://www.materialpalette.com/)
 - [New Flat UI Color Picker](http://www.flatuicolorpicker.com/)
@@ -185,7 +185,7 @@
 - [Picular](https://picular.co/)
 
 
-### tools ⚙ :
+### Tools:
 
 - Flutter : 
     - [Flutter Studio](https://flutterstudio.app/)
@@ -277,7 +277,7 @@
 - [Modern Javascript CheatSheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Modern javascript Cheatsheet 
 
 
-### Icons
+### Icons:
 
 - [IcoMoon](https://icomoon.io/)
 - [Font Awesome](https://fontawesome.com/)
@@ -318,7 +318,7 @@
 - [Weather Icons](https://erikflowers.github.io/weather-icons/)
 - [Social Button Icons](https://smcllns.github.io/css-social-buttons/)
 
-### Fonts ✍ :  
+### Fonts:  
 
 - [google fonts](https://fonts.google.com/)
 - [font squirrel](https://www.fontsquirrel.com/)
@@ -334,7 +334,7 @@
 - [fontspark](https://fontspark.app/)
 
 
-### UI / UX Inspirations ✏ :
+### UI / UX Inspirations:
 
 - [dribble](https://dribbble.com/)
 - [behance](https://www.behance.net/)
@@ -348,7 +348,7 @@
 - [booooooom](https://www.booooooom.com/)
 
 
-### Illustrations & Vectors ✏ : 
+### Illustrations & Vectors: 
 
 - [StockSnap](https://stocksnap.com/)
 - [freepik](https://www.freepik.com/vectors)
@@ -361,7 +361,7 @@
 - [undraw](https://undraw.co/illustrations)
 
 
-#### Photos 📲 :
+#### Photos:
 
 - [Freepik](https://www.freepik.com/)
 - [pexels](https://www.pexels.com/)
@@ -377,7 +377,7 @@
 - [PIcography](https://picography.co/)
 
 
-### Videos 🎥 : 
+### Videos: 
 
 - [pexels](https://www.pexels.com/)
 - [pixabay](https://pixabay.com/)
@@ -390,7 +390,7 @@
 - [vidsplay](https://www.vidsplay.com/)
 
 
-### Music & Sound 🎵 : 
+### Music & Sound: 
 
 - [Freeplay music](https://freeplaymusic.com/)
 - [FMA](https://freemusicarchive.org/)
@@ -401,7 +401,7 @@
 - [Tekno AXE](http://teknoaxe.com/Home.php)
 
 
-### Templates & Themes & Snippets 💻 :
+### Templates & Themes & Snippets:
 
 - [HTML5up](https://html5up.net/)
 - [BootstrapStrater](https://bootstrapstarter.com/)
@@ -418,7 +418,7 @@
 - [Web Dev Tricks](https://webdevtrick.com/)
 
 
-### RoadMaps 🗺 : 
+### RoadMaps: 
 
 - [Frontend](https://roadmap.sh/frontend) - [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [Backend](https://roadmap.sh/backend)- [Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
@@ -432,7 +432,7 @@
 - [PHP](https://github.com/odan/learn-php) - [Article](https://github.com/odan/learn-php)
 
 
-### Learning Platforms 📙 : 
+### Learning Platforms: 
 
 - [Udemy](https://www.udemy.com/)
 - [Udacity](https://www.udacity.com/)
@@ -678,7 +678,7 @@
     - [live Lessons](https://www.youtube.com/user/livelessons) - PYTHON, JAVA, PROGRAMMING-TIPS
 
 
-### Youtube Course Playlists 📼 : 
+### Youtube Course Playlists: 
 
 - [Android](https://www.youtube.com/playlist?list=PLG6ZrfNknN3OrsZ3V5UE-rgw857mUAyA2)
 - [Flutter](https://www.youtube.com/playlist?list=PLG6ZrfNknN3NsKzXP3LFhr5ybAH86Nt_B)
@@ -691,7 +691,7 @@
 - [Interview](https://www.youtube.com/playlist?list=PLG6ZrfNknN3MiNzut_9ldEvz7C9JbHaYx)
 
 
-### Telegram Channels & Groups : 
+### Telegram Channels & Groups: 
 
 - [JavaScript Daily](https://t.me/javascriptdaily)
 - [JavaScript Tutorials](https://t.me/javascript_Programming)
@@ -744,7 +744,7 @@
 - [Flutter](https://t.me/FlutterIndia)
 
 
-### Competetive Programming 💻 : 
+### Competetive Programming: 
 
 - [geeks for geeks](https://www.geeksforgeeks.org/category/competitive-programming/)
 - [top coder](https://www.topcoder.com/)
@@ -756,7 +756,7 @@
 - [hacker earth](https://www.hackerearth.com/)
 - [coder byte](https://www.coderbyte.com/)
 
-### Articles ✏ : 
+### Articles: 
 
 - [100+ FREE Resources to Learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)
 - [Awesome List](https://github.com/sindresorhus/awesome)
