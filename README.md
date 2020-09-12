@@ -791,7 +791,7 @@
 - [Starting Your Journey to Master Machine Learning with Python](https://towardsdatascience.com/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9)
 
 
-### Apps For Developers : 
+### Apps For Developers: 
 
 - [TechGig](https://play.google.com/store/apps/details?id=com.timesgroup.techgig&hl=en)
 - [Dev.to](https://play.google.com/store/apps/details?id=to.dev.dev_android&hl=en)
