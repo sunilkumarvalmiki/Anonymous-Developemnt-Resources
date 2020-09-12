@@ -229,6 +229,8 @@
     - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - css grid generator
     - [Stickybits](https://dollarshaveclub.github.io/stickybits/) - css position polyfill
 
+
+- [CheatSheet](https://github.com/logeshpaul/Frontend-Cheat-Sheets) - A List of Programming Cheatsheets
 - [Free For Dev](https://github.com/ripienaar/free-for-dev) - A list of Free Resources for Developers 
 - [Map Style](https://mapstyle.withgoogle.com/) - Google Maps Customization Tool
 - [Snazzy Maps](https://snazzymaps.com/) - Maps Customization Tool
@@ -786,3 +788,26 @@
 - [Develop and sell a Python API — from start to end tutorial](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)
 - [6 Amazing TensorFlow.js Projects to Kickstart Machine Learning on Web](https://towardsdatascience.com/6-amazing-tensorflow-js-projects-to-kickstart-machine-learning-on-web-3d42dd89398c)
 - [Starting Your Journey to Master Machine Learning with Python](https://towardsdatascience.com/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9)
+
+
+### Apps For Developers : 
+
+- [TechGig](https://play.google.com/store/apps/details?id=com.timesgroup.techgig&hl=en)
+- [Dev.to](https://play.google.com/store/apps/details?id=to.dev.dev_android&hl=en)
+- [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en)
+- [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=en)
+- [Slack](https://play.google.com/store/apps/details?id=com.Slack&hl=en)
+- [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en)
+- [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en)
+- [IdeaBag 2](https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=en)
+- [Github](https://play.google.com/store/apps/details?id=com.github.android&hl=en)
+- [Internshala](https://play.google.com/store/apps/details?id=com.internshala.app&hl=en)
+- [LetsIntern](https://play.google.com/store/apps/details?id=com.letsintern.droid&hl=en)
+- [QPythonOL](https://play.google.com/store/apps/details?id=org.qpython.qpy&hl=en)
+- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en)
+- [LinkedIn](https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en)
+- [Solo-Learn](https://play.google.com/store/apps/details?id=com.sololearn&hl=en)
+- [Database Designer](https://play.google.com/store/apps/details?id=com.klim.dbdesigner&hl=en)
+- [DB client](https://play.google.com/store/apps/details?id=com.tonocodelabs.dbclient&hl=en)
+- [Boost Note](https://play.google.com/store/apps/details?id=com.boostio.boostnote&hl=en)
+- [Google Keep Notes](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en)
