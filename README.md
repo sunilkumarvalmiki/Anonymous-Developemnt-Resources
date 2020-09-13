@@ -20,16 +20,17 @@
 - [Illustrations & Vectors ✏](#Illustrations-and-Vectors)
 - [Photos 📲](#Photos)
 - [Videos 🎥](#Videos)
-- [Music & Sound 🎵](#Music-&-Sound)
-- [Templates & Themes & Snippets 💻](#Templates-&-Themes-&-Snippets)
+- [Music & Sound 🎵](#Music-and-Sound)
+- [Templates, Themes & Snippets 💻](#Templates-Themes-and-Snippets)
 - [RoadMaps 🗺](#RoadMaps)
 - [Learning Platforms 📙](#Learning-Platforms)
 - [Youtube Programming Channels <img src="icons/youtube.png" alt="youtube icon" width="30px"/>](#Youtube-Programming-Channels)
 - [Youtube Course Playlists 📼](#Youtube-Course-Playlists)
-- [Telegram Channels & Groups](#Telegram-Channels-&-Groups)
+- [Telegram Channels & Groups <img src="icons/telegram.png" alt="telegram icon" width="30px"/>](#Telegram-Channels-and-Groups)
 - [Competetive Programming 💻](#Competetive-Programming)
 - [Articles ✏](#Articles)
 - [Apps For Developers 📱](#Apps-For-Developers)
+- [Facebook Groups & pages <img src="icons/facebook.png" alt="facebook icon" width="30px"/>](#Facebook-Groups-and-pages)
 
 
 ### Online Code Editors:
@@ -197,7 +198,6 @@
     - [TestMagic](https://testmagic.io/)
     - [ScreenShots](https://github.com/mmcc007/screenshots)
     - [Supernova](https://www.supernova.io/)
-    - [XD to Flutter Plugin: Convert XD Designs into Working Code to Build Native Apps with Google’s Flutter](https://blog.adobe.com/en/2019/12/11/xd-flutter-plugin-generate-dart-code-design-elements.html#gs.fvqmpa)
     - [Pb.Dev](https://pub.dev/)
     - [Vysor](https://www.vysor.io/)
     - [Rive App](https://rive.app/)
@@ -209,6 +209,15 @@
     - [Flutter Examples By FilledStacks](https://github.com/FilledStacks/flutter-tutorials)
     - [Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
     - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens)
+    - [Flutlab.io](https://flutlab.io/)
+    - [CodeAppRun.io](https://codeapprun.io/)
+    - [DartPad](https://dartpad.dev/)
+    - [Flutter App Builder](https://flutterappbuilder.club/)
+    - [Flutter Awesome](https://flutterawesome.com/)
+    - [Code With Andrea](https://codewithandrea.com/)
+    - [Flutter Material Design](https://material.io/develop/flutter)
+    - [itsAllWidgets](https://itsallwidgets.com/)
+    - [XD to Flutter Plugin: Convert XD Designs into Working Code to Build Native Apps with Google’s Flutter](https://blog.adobe.com/en/2019/12/11/xd-flutter-plugin-generate-dart-code-design-elements.html#gs.fvqmpa)
 
 - Javascript : 
     - [OverAPI](https://overapi.com/javascript)
@@ -411,7 +420,7 @@
 - [vidsplay](https://www.vidsplay.com/)
 
 
-### Music & Sound: 
+### Music and Sound: 
 
 - [Freeplay music](https://freeplaymusic.com/)
 - [FMA](https://freemusicarchive.org/)
@@ -422,7 +431,7 @@
 - [Tekno AXE](http://teknoaxe.com/Home.php)
 
 
-### Templates & Themes & Snippets:
+### Templates Themes and Snippets:
 
 - [HTML5up](https://html5up.net/)
 - [BootstrapStrater](https://bootstrapstarter.com/)
@@ -719,7 +728,7 @@
 - [Interview](https://www.youtube.com/playlist?list=PLG6ZrfNknN3MiNzut_9ldEvz7C9JbHaYx)
 
 
-### Telegram Channels & Groups: 
+### Telegram Channels and Groups: 
 
 - [JavaScript Daily](https://t.me/javascriptdaily)
 - [JavaScript Tutorials](https://t.me/javascript_Programming)
@@ -822,7 +831,7 @@
 - [Google Keep Notes](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en)
 
 
-### Facebook Groups & pages :
+### Facebook Groups and pages:
 
 - [Doctor code](https://www.facebook.com/DoctorCode9)
 - [JFB - Javascript For Begineers](https://www.facebook.com/groups/JavascriptForBeginners)
