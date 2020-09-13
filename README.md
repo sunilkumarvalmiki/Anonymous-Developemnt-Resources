@@ -17,7 +17,7 @@
 - [Icons](#Icons)
 - [Fonts ✍](#Fonts)
 - [UI / UX Inspirations ✏](#UI-/-UX-Inspirations)
-- [Illustrations & Vectors ✏](#Illustrations-&-Vectors)
+- [Illustrations & Vectors ✏](#Illustrations-and-Vectors)
 - [Photos 📲](#Photos)
 - [Videos 🎥](#Videos)
 - [Music & Sound 🎵](#Music-&-Sound)
@@ -369,7 +369,7 @@
 - [booooooom](https://www.booooooom.com/)
 
 
-### Illustrations & Vectors: 
+### Illustrations and Vectors: 
 
 - [StockSnap](https://stocksnap.com/)
 - [freepik](https://www.freepik.com/vectors)
