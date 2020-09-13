@@ -201,6 +201,14 @@
     - [Pb.Dev](https://pub.dev/)
     - [Vysor](https://www.vysor.io/)
     - [Rive App](https://rive.app/)
+    - [FLutter Bloc](https://github.com/felangel/bloc)
+    - [Flutter Official](https://github.com/flutter/flutter)
+    - [Flutter UI Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+    - [Flutter Firebase](https://github.com/FirebaseExtended/flutterfire)
+    - [Flutter Examples By App Brewery](https://github.com/londonappbrewery/Clima-Flutter)
+    - [Flutter Examples By FilledStacks](https://github.com/FilledStacks/flutter-tutorials)
+    - [Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
+    - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens)
 
 - Javascript : 
     - [OverAPI](https://overapi.com/javascript)
@@ -812,3 +820,12 @@
 - [DB client](https://play.google.com/store/apps/details?id=com.tonocodelabs.dbclient&hl=en)
 - [Boost Note](https://play.google.com/store/apps/details?id=com.boostio.boostnote&hl=en)
 - [Google Keep Notes](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en)
+
+
+### Facebook Groups & pages :
+
+- [Doctor code](https://www.facebook.com/DoctorCode9)
+- [JFB - Javascript For Begineers](https://www.facebook.com/groups/JavascriptForBeginners)
+- [Vue.js Development, Tips, Ideas](https://www.facebook.com/vuejsdevelopmenttipsideas)
+- [Flutter  dart + JHipster](https://www.facebook.com/groups/411158716157164)
+- [Javascript Developers](https://www.facebook.com/groups/401684740244905)
