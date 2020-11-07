@@ -189,9 +189,31 @@
 
 ### Tools:
 
+- Python <img src="icons/python.png" alt="react icon" width="30px"/> : 
+    - [Awesome Python](https://github.com/vinta/awesome-python)
+    - [Fucking Awesome Python](https://github.com/trananhkma/fucking-awesome-python)
+
+- MY Sql <img src="icons/mysql.png" alt="react icon" width="30px"/> : 
+    - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+    - [Awesome MySQL Queries and Commands](https://github.com/joseluisq/awesome-mysql-queries-commands)
+
+- Java <img src="icons/java.png" alt="react icon" width="30px"/> : 
+    - [Awesome Java](https://github.com/akullpp/awesome-java)
+    - [Awesome Java](https://github.com/pditommaso/awesome-java)
+    - [Awesome Java](https://github.com/wtsxDev/Amazing-Java-List)
+    - [10 excellent GitHub repositories for Java developer](https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9)
+    - [Top Github repositories for Java developers](https://dev.to/ama/top-github-repositories-for-java-developers-4bh2)
+
+- Android <img src="icons/android.png" alt="react icon" width="30px"/> : 
+    - [android-samples](https://github.com/kevalpatel2106/android-samples)
+    - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+    - [Awesome Android](https://github.com/JStumpp/awesome-android)
+    - [List of Android UI Libraries](https://github.com/thanhtoan1196/awesome-android-ui)
+    - [Awesome Android Libraries — 2018 October — December Android Developer Library GitHub](https://medium.com/@PongPloyAppDev/xxx-top-awesome-android-libraries-2018-october-december-android-developer-library-github-74082be6d777)
+
 - Hacking : 
- - <img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.
- 
+  - <img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.
+
     - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
     - [Awesome Hacking -An Amazing Project](https://github.com/carpedm20/awesome-hacking)
     - [The Top 450 Hacking Open Source Projects](https://awesomeopensource.com/projects/hacking)
