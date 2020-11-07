@@ -189,6 +189,47 @@
 
 ### Tools:
 
+- Hacking : 
+ - <img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.
+ 
+    - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+    - [Awesome Hacking -An Amazing Project](https://github.com/carpedm20/awesome-hacking)
+    - [The Top 450 Hacking Open Source Projects](https://awesomeopensource.com/projects/hacking)
+    - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+    - [100 HACKING TOOLS AND RESOURCES](https://www.hackerone.com/blog/100-hacking-tools-and-resources)
+
+- PHP <img src="icons/php.png" alt="react icon" width="30px"/> : 
+    - [Awesome PHP](https://github.com/ziadoz/awesome-php)
+    - [awesome-php](https://github.com/uhub/awesome-php)
+    - [50 Most Popular PHP Projects on GitHub](https://medium.com/issuehunt/50-most-popular-php-projects-on-github-c8cf6a242eb9)
+    - [List of Best Awesome Php Libraries](https://www.ma-no.org/en/programming/php/php-list-of-best-awesome-php-libraries)
+    - [The Top 88 Php Library Open Source Projects](https://awesomeopensource.com/projects/php-library)
+    - [My Awesome PHP List](http://wiki.travisfont.com/My_Awesome_PHP_List)
+
+- vue.js <img src="icons/vuejs.png" alt="react icon" width="30px"/> :
+    - [Awesome Vuetify](https://github.com/vuetifyjs/awesome-vuetify)
+    - [10 Resources to Learn Vue.js in 2020](https://medium.com/better-programming/10-resources-to-learn-vue-js-in-2020-c596e070772)
+    - [Vuex made simple — getting started!](https://itnext.io/vuex-made-simple-getting-started-6bf229d432cf)
+    - [Top 7 Vue.js Projects on GitHub](https://medium.com/javascript-in-plain-english/top-7-vue-js-projects-on-github-19ba006d34e8)
+    - [Creating Components in VueJS](https://medium.com/javascript-in-plain-english/creating-components-in-vuejs-c7a61d84430c)
+
+    - Component Libraries : 
+        - [Element UI](https://element.eleme.cn/#/en-US)
+        - [Vuetify](https://vuetifyjs.com/en/)
+        - [Bootstrap Vue](https://bootstrap-vue.org/)
+        - [Buefy](https://buefy.org/#/)
+        - [Vue Material](https://vuematerial.io/)
+        - [Quasar](https://quasar.dev/)
+        - [Vux](https://github.com/airyland/vux)
+        - [iView](http://iview.talkingdata.com/)
+        - [Vue Material Kit](https://github.com/creativetimofficial/vue-material-kit)
+        - [Mint UI](http://mint-ui.github.io/)
+        - [Fish UI](https://github.com/myliang/fish-ui)
+        - [Keen UI](https://josephuspaye.github.io/Keen-UI/#/ui-alert)
+        - [AT-UI](https://github.com/at-ui/at-ui)
+        - [Vuepress](https://github.com/vuejs/vuepress)
+        - [Eagle UI](https://zulko.github.io/eaglejs-demo/)
+
 - Flutter : 
     - [Flutter Studio](https://flutterstudio.app/)
     - [Flutter Awesome List](https://github.com/sunilkumarvalmiki/awesome-flutter)
@@ -230,6 +271,7 @@
     - [Awesome Web Development Resources](https://github.com/mrmartineau/awesome-web-dev-resources)
     - [Web Development Resources](https://github.com/MilanAryal/web-development-resources)
     - [FrontEnd Developer Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+    - [Awesome Stars](https://github.com/taielab/awesome-hacking-lists)
 
 - Mobile Development : 
     - [Awesome-Fuse](https://github.com/fuse-compound/awesome-fuse)
@@ -806,6 +848,16 @@
 - [Develop and sell a Python API — from start to end tutorial](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)
 - [6 Amazing TensorFlow.js Projects to Kickstart Machine Learning on Web](https://towardsdatascience.com/6-amazing-tensorflow-js-projects-to-kickstart-machine-learning-on-web-3d42dd89398c)
 - [Starting Your Journey to Master Machine Learning with Python](https://towardsdatascience.com/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9)
+- [32 Tips For Every Web Developer In 2020](https://medium.com/better-programming/32-tips-for-every-web-developer-in-2020-782fd6554f0d)
+
+    - Vue.js <img src="icons/vuejs.png" alt="react icon" width="30px"/> : 
+    - [Form Validation with Vuetify in a Vue App](https://medium.com/@shaneilske/windows-with-vue-df4624b87ce5)
+    - [How to build a web app with Vue, Vuetify and Axios](https://medium.com/javascript-in-plain-english/implement-movie-app-with-vue-vuetify-axios-open-movie-database-api-d12290318cf9)
+    - [Creating a Pinterest style image gallery in Vue](https://medium.com/swlh/creating-a-pinterest-style-image-gallery-in-vue-927836b7d173)
+    - [Render Elements Conditionally with Vue.js with v-if](https://medium.com/javascript-in-plain-english/render-elements-conditionally-with-vue-js-with-v-if-2034b81f9e35)
+    - [Managing SVG Icons in VueJs Applications](https://medium.com/swlh/managing-svg-icons-in-vuejs-applications-7f5c9e7b6ffa)
+    - [Adding Vue.js to an Existing Project](https://medium.com/@bluntjackson/adding-vue-js-to-an-existing-project-ed2d040f870b)
+    - [Building a Multi-Step Form with Vue](https://medium.com/engineering-samlino/building-a-multi-step-form-with-vue-2bc861447c4a)
 
 
 ### Apps For Developers: 
