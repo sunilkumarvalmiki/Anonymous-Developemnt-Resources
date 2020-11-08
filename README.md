@@ -219,7 +219,7 @@
     - [Awesome Android Libraries — 2018 October — December Android Developer Library GitHub](https://medium.com/@PongPloyAppDev/xxx-top-awesome-android-libraries-2018-october-december-android-developer-library-github-74082be6d777)
 
 - Hacking : 
-  - <p><img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.</p>
+  - <p><img src="icons/important.png" alt="react icon" width="30px"/><b>Note : All this resources are provided for educational purpose's.</b></p>
 
     - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
     - [Awesome Hacking -An Amazing Project](https://github.com/carpedm20/awesome-hacking)
@@ -543,6 +543,14 @@
 - [Vue Hero’s roadmap <img src="icons/vuejs.png" alt="vue.js icon" width="30px"/>](https://medium.com/@steinovehelset/vue-heros-roadmap-to-learn-vue-js-2ac83e48396e) - [Article](https://medium.com/@steinovehelset/vue-heros-roadmap-to-learn-vue-js-2ac83e48396e)
 - [Hacker Roadmap <img src="icons/hacker.png" alt="hacker icon" width="30px"/>](https://github.com/sundowndev/hacker-roadmap) - [Article](https://github.com/sundowndev/hacker-roadmap)
 - [A Beginner’s Road Map on Ethical Hacking <img src="icons/hacker.png" alt="hacker icon" width="30px"/>](https://medium.com/@abhiii/a-beginners-road-map-on-ethical-hacking-8aa83f01dbd1) - [Article](https://medium.com/@abhiii/a-beginners-road-map-on-ethical-hacking-8aa83f01dbd1)
+- [A UX Design Road Map For Starters <img src="icons/uiux.png" alt="hacker icon" width="30px"/>](https://medium.com/we-are-orb/a-ux-design-road-map-for-starters-c8505c30587d) -
+[Article](https://medium.com/we-are-orb/a-ux-design-road-map-for-starters-c8505c30587d)
+- [Ui Ux Designer Roadmap <img src="icons/uiux.png" alt="hacker icon" width="30px"/>](https://awesomeopensource.com/project/togiberlin/ui-ux-designer-roadmap) - [Article](https://awesomeopensource.com/project/togiberlin/ui-ux-designer-roadmap)
+- [Game Developer Roadmap 2020 <img src="icons/gamedev.png" alt="hacker icon" width="30px"/>](https://github.com/utilForever/game-developer-roadmap) - [Article](https://github.com/utilForever/game-developer-roadmap)
+- [Game Development — A Personal Roadmap <img src="icons/gamedev.png" alt="hacker icon" width="30px"/>](https://medium.com/@ozgurcakmak/game-development-a-personal-roadmap-b6354058f44f) - [Article](https://medium.com/@ozgurcakmak/game-development-a-personal-roadmap-b6354058f44f)
+- [Machine Learning (ML) 2020](https://github.com/JsonChao/ML-Roadmap) - [Article](https://github.com/JsonChao/ML-Roadmap)
+- [Machine Learning (ML) Engineering 2020](https://github.com/chris-chris/ml-engineer-roadmap) - [Article](https://github.com/chris-chris/ml-engineer-roadmap)
+- [Machine Learning path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4) - [Article](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
 
 
 ### Learning Platforms: 
