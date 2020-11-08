@@ -189,6 +189,13 @@
 
 ### Tools:
 
+- React <img src="icons/react.png" alt="react icon" width="30px"/> : 
+    - [Awesome React](https://github.com/enaqx/awesome-react)
+    - [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
+    - [awesome react native](https://github.com/jondot/awesome-react-native)
+    - [Awesome React](https://awesomereact.com/)
+    - [Awesome React](https://github.com/gaearon/awesome-react)
+
 - Python <img src="icons/python.png" alt="react icon" width="30px"/> : 
     - [Awesome Python](https://github.com/vinta/awesome-python)
     - [Fucking Awesome Python](https://github.com/trananhkma/fucking-awesome-python)
@@ -212,7 +219,7 @@
     - [Awesome Android Libraries — 2018 October — December Android Developer Library GitHub](https://medium.com/@PongPloyAppDev/xxx-top-awesome-android-libraries-2018-october-december-android-developer-library-github-74082be6d777)
 
 - Hacking : 
-  - <img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.
+  - <img src="icons/important.png" alt="react icon" width="30px"/> <p style="color:red"><b>Note : All this resources are provided for educational purpose's.</b></p>
 
     - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
     - [Awesome Hacking -An Amazing Project](https://github.com/carpedm20/awesome-hacking)
@@ -252,7 +259,7 @@
         - [Vuepress](https://github.com/vuejs/vuepress)
         - [Eagle UI](https://zulko.github.io/eaglejs-demo/)
 
-- Flutter : 
+- Flutter <img src="icons/flutter.png" alt="flutter icon" width="30px"/> : 
     - [Flutter Studio](https://flutterstudio.app/)
     - [Flutter Awesome List](https://github.com/sunilkumarvalmiki/awesome-flutter)
     - [panache](https://rxlabz.github.io/panache/#/)
@@ -282,7 +289,7 @@
     - [itsAllWidgets](https://itsallwidgets.com/)
     - [XD to Flutter Plugin: Convert XD Designs into Working Code to Build Native Apps with Google’s Flutter](https://blog.adobe.com/en/2019/12/11/xd-flutter-plugin-generate-dart-code-design-elements.html#gs.fvqmpa)
 
-- Javascript : 
+- Javascript <img src="icons/javascript.png" alt="react icon" width="30px"/> : 
     - [OverAPI](https://overapi.com/javascript)
     - [Mastering JS](https://masteringjs.io/)
     - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -299,7 +306,7 @@
     - [Awesome-Fuse](https://github.com/fuse-compound/awesome-fuse)
 
 - CSS :
-    - [CSS Matic](https://www.cssmatic.com/) - CSS CUstomization Tool
+    - [CSS Matic](https://www.cssmatic.com/) - CSS Customization Tool
     - [Neumorphism](https://neumorphism.io/) - neuromorphic CSS generator
     - [Neuromorphic.Design](https://neumorphic.design/) - Neuromorphic CSS generator
     - [Soft UI](https://www.softui.io/) - Neuromorphic CSS generator
@@ -532,6 +539,11 @@
 - [Flutter <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://github.com/DroidsOnRoids/flutter-roadmap) - [Article](https://github.com/DroidsOnRoids/flutter-roadmap)
 - [Flutter New <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://github.com/olexale/flutter_roadmap) - [Article](https://github.com/olexale/flutter_roadmap)
 - [Flutter 2020 <img src="icons/flutter.png" alt="flutter icon" width="30px"/>](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b) - [Article](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b)
+- [Vue.js developer 2020 <img src="icons/vuejs.png" alt="vue.js icon" width="30px"/>](https://flaviocopes.com/vue-developer-roadmap/) - [Article](https://flaviocopes.com/vue-developer-roadmap/)
+- [Vue Hero’s roadmap <img src="icons/vuejs.png" alt="vue.js icon" width="30px"/>](https://medium.com/@steinovehelset/vue-heros-roadmap-to-learn-vue-js-2ac83e48396e) - [Article](https://medium.com/@steinovehelset/vue-heros-roadmap-to-learn-vue-js-2ac83e48396e)
+- [Hacker Roadmap <img src="icons/hacker.png" alt="hacker icon" width="30px"/>](https://github.com/sundowndev/hacker-roadmap) - [Article](https://github.com/sundowndev/hacker-roadmap)
+- [A Beginner’s Road Map on Ethical Hacking <img src="icons/hacker.png" alt="hacker icon" width="30px"/>](https://medium.com/@abhiii/a-beginners-road-map-on-ethical-hacking-8aa83f01dbd1) - [Article](https://medium.com/@abhiii/a-beginners-road-map-on-ethical-hacking-8aa83f01dbd1)
+
 
 ### Learning Platforms: 
 
