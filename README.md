@@ -219,7 +219,7 @@
     - [Awesome Android Libraries — 2018 October — December Android Developer Library GitHub](https://medium.com/@PongPloyAppDev/xxx-top-awesome-android-libraries-2018-october-december-android-developer-library-github-74082be6d777)
 
 - Hacking : 
-  - <img src="icons/important.png" alt="react icon" width="30px"/> <p style="color:red"><b>Note : All this resources are provided for educational purpose's.</b></p>
+  - <p style="color:red;"><img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.</p>
 
     - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
     - [Awesome Hacking -An Amazing Project](https://github.com/carpedm20/awesome-hacking)
@@ -693,7 +693,7 @@
     - [learn code.academy](https://www.youtube.com/c/learncodeacademy) - WEB DEVELOPMENT, REACT.JS, NODE.JS, ANGULAR, DOCKER, MEAN, JQUERY
     - [Pusher](https://www.youtube.com/c/Pusher_realtime/featured) - JAVA, JAVASCRIPT, PROGRAMMING-CONFERENCES
     - [TechSith](https://www.youtube.com/user/techSithTube/featured) - JAVASCRIPT, REACT.JS, DATA-STRUCTURES, NODE.JS, INTERVIEW
-    - [Code course](https://www.youtube.com/user/phpacademy) - PHP LARAVEL, JAVRIPT, HTML, CSS, GIT & GITHUB, MYSQL, AJAX
+    - [Code course](https://www.youtube.com/user/phpacademy) - PHP LARAVEL, JAVSCRIPT, HTML, CSS, GIT & GITHUB, MYSQL, AJAX
     - [The new Boston](https://www.youtube.com/user/thenewboston/featured) - JAVASCRIPT, REACT.JS, ANGULAR, DJANGO, PYTHON, LINUX, NODE.JS, ANDROID, IOS, PYGAME, PHOTOSHOP, C, R, JAVA, ADOBE-TOOLS,     C++, MYSQL, JQUERY, C#, PHP, HTML, CSS, RUBY, VB.NET, UNREAL-ENGINE
     - [Wes bos](https://www.youtube.com/c/WesBos/featured) - JAVASCRIPT, WEB DEVELOPMENT, REACT.JS
     - [level tuts](https://www.youtube.com/user/LevelUpTuts) - REACT.JS, ELECTRON, GASTBY, FIGMA, HTML, CSS, JAVASCRIPT, DRUPAL, SKETCH, WORDPRESS, MAGNETO
@@ -883,6 +883,10 @@
 - [6 Amazing TensorFlow.js Projects to Kickstart Machine Learning on Web](https://towardsdatascience.com/6-amazing-tensorflow-js-projects-to-kickstart-machine-learning-on-web-3d42dd89398c)
 - [Starting Your Journey to Master Machine Learning with Python](https://towardsdatascience.com/starting-your-journey-to-master-machine-learning-with-python-d0bd47ebada9)
 - [32 Tips For Every Web Developer In 2020](https://medium.com/better-programming/32-tips-for-every-web-developer-in-2020-782fd6554f0d)
+- [Seven Fun Books Which Make You a Better Data Analyst](https://towardsdatascience.com/seven-fun-books-which-made-me-a-better-data-analyst-4f3ea514fc00)
+- [Practical Deep Learning with Python](https://nostarch.com/practical-deep-learning-python)
+- [10 Things I've Learned While Building A Website For My Blog 📚](https://dev.to/dkabardinov/10-things-i-ve-learned-while-building-a-website-for-my-blog-1748)
+- [Build a Flutter Web App From Scratch and Host It With Continuous Deployment](https://medium.com/better-programming/building-flutter-web-app-from-scratch-and-hosting-it-with-continuous-deployment-fde0c20ed711)
 
     - Vue.js <img src="icons/vuejs.png" alt="react icon" width="30px"/> : 
     - [Form Validation with Vuetify in a Vue App](https://medium.com/@shaneilske/windows-with-vue-df4624b87ce5)
