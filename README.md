@@ -227,6 +227,34 @@
     - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
     - [100 HACKING TOOLS AND RESOURCES](https://www.hackerone.com/blog/100-hacking-tools-and-resources)
 
+    - search Engines : 
+    - [Shodan](https://www.shodan.io/)
+    - [Censys](https://censys.io/ipv4)
+    - [Onyphe](https://www.onyphe.io/)
+    - [hunter](https://hunter.io/)
+    - [Wigle](https://wigle.net/)
+
+    - learning Resources : 
+        - [SecurityTube](http://www.securitytube.net/)
+        - [Amanhardikar](https://amanhardikar.com/)
+        - [Seed security labs](https://seedsecuritylabs.org/)
+        - [Backdoor.sdslabs](https://backdoor.sdslabs.co/)
+        - [Hacksplaining](https://www.hacksplaining.com/)
+        - [Hack The Box](https://www.hackthebox.eu/)
+        - [Enigma Group](https://www.enigmagroup.org/)
+        - [Pwnable.kr](http://pwnable.kr/)
+        - [Pwnable.tw](https://pwnable.tw/)
+        - [Hacking Articles](https://www.hackingarticles.in/)
+        - [Corelan.be](https://www.corelan.be/)
+        - [Recon.cx](https://recon.cx/)
+        - [Payatu](https://payatu.com/)
+        - [Exploit DB](https://www.exploit-db.com/)
+        - [From Dev](https://www.fromdev.com/)
+        - [CompariTech](https://www.comparitech.com/)
+        - [EC Council](https://www.eccouncil.org/)
+        - [Sec Tools](https://sectools.org/)
+
+
 - PHP <img src="icons/php.png" alt="react icon" width="30px"/> : 
     - [Awesome PHP](https://github.com/ziadoz/awesome-php)
     - [awesome-php](https://github.com/uhub/awesome-php)
@@ -583,6 +611,15 @@
 
 
 ### Youtube Programming Channels:
+
+- Hacking <img src="icons/hacker.png" alt="hacker icon" width="30px"/> : 
+    - [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT)
+    - [Christiaan008](https://www.youtube.com/user/ChRiStIaAn008)
+    - [Metasploit](https://www.youtube.com/channel/UCx4d2aRIfxfEUdS_5YIYKPg)
+    - [SecureList](https://www.youtube.com/user/Securelist)
+    - [HackADay](https://www.youtube.com/user/hackaday)
+    - [Rapid7](https://www.youtube.com/user/GoRapid7)
+
 
 - Android <img src="icons/android.png" alt="andriod icon" width="30px"/> :
     - [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
