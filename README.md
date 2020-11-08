@@ -219,7 +219,7 @@
     - [Awesome Android Libraries — 2018 October — December Android Developer Library GitHub](https://medium.com/@PongPloyAppDev/xxx-top-awesome-android-libraries-2018-october-december-android-developer-library-github-74082be6d777)
 
 - Hacking : 
-  - <p style="color:red;"><img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.</p>
+  - <span style="color:red;"><img src="icons/important.png" alt="react icon" width="30px"/> Note : All this resources are provided for educational purpose's.</span>
 
     - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
     - [Awesome Hacking -An Amazing Project](https://github.com/carpedm20/awesome-hacking)
