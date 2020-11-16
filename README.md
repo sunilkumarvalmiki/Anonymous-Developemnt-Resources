@@ -619,6 +619,15 @@
     - [SecureList](https://www.youtube.com/user/Securelist)
     - [HackADay](https://www.youtube.com/user/hackaday)
     - [Rapid7](https://www.youtube.com/user/GoRapid7)
+    - [Tech Chip](https://www.youtube.com/channel/UCYS9sTrPpcIVDxz2yVPbuLw)
+    - [Technical Navigator](https://www.youtube.com/user/Niteshlike123)
+    - [Master In Ethical Hacking](https://www.youtube.com/channel/UCAKbr5-LO1jB5hEtac4DwQA)
+    - [Black Hat India](https://www.youtube.com/channel/UCOwhCv9YGB5s7S6YDcouVhg)
+    - [Hacker Sploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+    - [Joseph Delgadillo](https://www.youtube.com/channel/UCqR4a4lUDbDkAFQnhw4pfXQ)
+    - [Security Now](https://www.youtube.com/user/TWiTSecurityNow)
+    - [The Pc Security Channel](https://www.youtube.com/results?search_query=the+pc+security+channel)
+    - [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
 
 
 - Android <img src="icons/android.png" alt="andriod icon" width="30px"/> :
