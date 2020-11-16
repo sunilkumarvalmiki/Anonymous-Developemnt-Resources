@@ -226,6 +226,15 @@
     - [The Top 450 Hacking Open Source Projects](https://awesomeopensource.com/projects/hacking)
     - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
     - [100 HACKING TOOLS AND RESOURCES](https://www.hackerone.com/blog/100-hacking-tools-and-resources)
+    - [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
+    - [Awesome Appsec](https://github.com/paragonie/awesome-appsec)
+    - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+    - [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+    - [Awesome IOT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
+    - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+    - [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+    - [Awesome Reverse Engineering](https://github.com/tylerha97/awesome-reversing)
+    - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
     - search Engines : 
     - [Shodan](https://www.shodan.io/)
@@ -233,6 +242,8 @@
     - [Onyphe](https://www.onyphe.io/)
     - [hunter](https://hunter.io/)
     - [Wigle](https://wigle.net/)
+    - [Zoom Eye](https://www.zoomeye.org/)
+    - [OSINT Framework](https://osintframework.com/)
 
     - learning Resources : 
         - [SecurityTube](http://www.securitytube.net/)
@@ -253,6 +264,14 @@
         - [CompariTech](https://www.comparitech.com/)
         - [EC Council](https://www.eccouncil.org/)
         - [Sec Tools](https://sectools.org/)
+
+    - Network Sniffing :
+        - [BetterCap](https://www.bettercap.org/)
+        - [WireShark](https://www.wireshark.org/)
+        - [WinDump](https://www.winpcap.org/windump/)
+        - [TCPDump](https://www.tcpdump.org/)
+        - [OmniPeek](https://www.liveaction.com/products/omnipeek-network-protocol-analyzer/)
+        - [Dsniff](https://www.monkey.org/~dugsong/dsniff/)
 
 
 - PHP <img src="icons/php.png" alt="react icon" width="30px"/> : 
