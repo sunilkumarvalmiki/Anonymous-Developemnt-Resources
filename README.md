@@ -308,7 +308,11 @@
 
 - Flutter <img src="icons/flutter.png" alt="flutter icon" width="30px"/> : 
     - Books : 
-        - [Flutter Recepies]() [PDF]() 
+        - [Flutter Recepies] [PDF](https://raw.githubusercontent.com/sunilkumarvalmiki/dev-Resources/master/Flutter/flutter-recipes-development-solutions-android.pdf) 
+        - [Begining Flutter] [PDF]()
+        - [Learn Google Flutter Fast] [PDF]()
+        - [Flutter in action] [PDF]()
+        
     - [Flutter Studio](https://flutterstudio.app/)
     - [Flutter Awesome List](https://github.com/sunilkumarvalmiki/awesome-flutter)
     - [panache](https://rxlabz.github.io/panache/#/)
