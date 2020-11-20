@@ -312,6 +312,7 @@
         - Begining Flutter [PDF](https://raw.githubusercontent.com/sunilkumarvalmiki/dev-Resources/master/Flutter/Begining%20Flutter.pdf)
         - Learn Google Flutter Fast [PDF](https://raw.githubusercontent.com/sunilkumarvalmiki/dev-Resources/master/Flutter/Learn%20google%20Flutter%20Fast.pdf)
         - Flutter in action [PDF](https://raw.githubusercontent.com/sunilkumarvalmiki/dev-Resources/master/Flutter/Flutter%20in%20action.pdf)
+        - Practical Flutter [PDF]()
 
     - [Flutter Studio](https://flutterstudio.app/)
     - [Flutter Awesome List](https://github.com/sunilkumarvalmiki/awesome-flutter)
