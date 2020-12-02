@@ -272,6 +272,10 @@
         - [TCPDump](https://www.tcpdump.org/)
         - [OmniPeek](https://www.liveaction.com/products/omnipeek-network-protocol-analyzer/)
         - [Dsniff](https://www.monkey.org/~dugsong/dsniff/)
+        
+    - Bug Bounty : 
+        - [Resources For Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+        - []()
 
 
 - PHP <img src="icons/php.png" alt="react icon" width="30px"/> : 
