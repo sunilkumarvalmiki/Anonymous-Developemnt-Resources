@@ -1,7 +1,7 @@
 <p align="center">
     <img width="64" height="64" alt="web development resources" src="https://k2meblog.files.wordpress.com/2017/05/html-512.png" />
 </p>
-<h1 align="center">Development Resources</h1>
+<h1 align="center">development Resources</h1>
 <p align="center">
 <i> A list of useful development resources . . . .</i>
 </p>
