@@ -1,0 +1,47 @@
+name: Resource suggestion
+description: Suggest a development resource for the catalog.
+title: "Add resource: "
+labels:
+  - resource
+body:
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      description: Link to the resource, repository, documentation, tool, API, course, dataset, or community.
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Mega Indexes
+        - Learning and Roadmaps
+        - Books, Courses, APIs, and Data
+        - Tools and Services
+        - Languages and Frameworks
+        - Design and Media
+        - Security
+        - Career and Community
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should this be included?
+      description: Explain what the resource provides and who it helps.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Scope checks
+      options:
+        - label: This is a resource link, not an uploaded file.
+          required: true
+        - label: This is legal, safe, and aligned with software development.
+          required: true
+        - label: This is not spam, piracy, credential theft, or malware distribution.
+          required: true
