@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General GitHub support
+    url: https://support.github.com/
+    about: Use GitHub Support for account, billing, Codespaces, or platform issues.

@@ -1,0 +1,11 @@
+{
+  "name": "anonymous-development-resources",
+  "private": true,
+  "description": "Resource-only catalog of software development links.",
+  "scripts": {
+    "validate": "node scripts/validate-resources.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

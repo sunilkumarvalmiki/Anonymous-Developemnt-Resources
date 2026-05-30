@@ -1,0 +1,15 @@
+{
+  "name": "Anonymous Development Resources",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bierner.markdown-preview-github-styles",
+        "DavidAnson.vscode-markdownlint",
+        "github.vscode-github-actions"
+      ]
+    }
+  },
+  "postCreateCommand": "npm run validate",
+  "remoteUser": "node"
+}
