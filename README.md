@@ -9,9 +9,10 @@ This project collects trusted resources for learning software development, choos
 - [What Makes This Different](#what-makes-this-different)
 - [Who This Is For](#who-this-is-for)
 - [How To Use This Repo](#how-to-use-this-repo)
+- [Resource Navigator](#resource-navigator)
 - [Start Here](#start-here)
 - [Catalog](#catalog)
-- [Resource Navigator Direction](#resource-navigator-direction)
+- [Structured Data](#structured-data)
 - [Curation Rules](#curation-rules)
 - [Automation](#automation)
 
@@ -19,11 +20,11 @@ This project collects trusted resources for learning software development, choos
 
 Most resource repositories try to collect as many links as possible. That is useful, but it can also overwhelm people.
 
-This project is moving toward a different goal:
+This project is built around a different goal:
 
 > Tell us your goal. We give you the shortest trusted resource path.
 
-The long-term direction is a **Resource Navigator**: outcome-based paths that tell a developer what to use first, what to use next, what to skip for now, and why. The design is documented in [Resource Navigator Design](docs/superpowers/specs/2026-05-31-resource-navigator-design.md).
+The **Resource Navigator** gives outcome-based paths that tell a developer what to use first, what to use next, what to skip for now, and why. The design is documented in [Resource Navigator Design](docs/superpowers/specs/2026-05-31-resource-navigator-design.md), and the first implementation is live in the navigator section below.
 
 ## Who This Is For
 
@@ -36,10 +37,19 @@ The long-term direction is a **Resource Navigator**: outcome-based paths that te
 
 ## How To Use This Repo
 
-1. If you want the biggest trusted resource hubs, start with the `Start Here` section.
-2. If you already know the topic you need, browse the `Catalog` section.
-3. Before adding links, read the `Curation Rules` section.
-4. To suggest or improve resources, follow `CONTRIBUTING.md`.
+1. If you know your goal, start with the `Resource Navigator`.
+2. If you want the biggest trusted resource hubs, use the `Start Here` section.
+3. If you already know the topic you need, browse the `Catalog` section.
+4. Before adding links, read the `Curation Rules` section.
+5. To suggest or improve resources, follow `CONTRIBUTING.md`.
+
+## Resource Navigator
+
+Use the Resource Navigator when you want a clear recommendation instead of a large list.
+
+<!--lint disable awesome-list-item-->
+- [Resource Navigator](navigator/README.md) - Goal-based paths for beginners, frontend, backend, full-stack projects, AI/ML, DevOps, cybersecurity, interviews, open source, and project tools.
+<!--lint enable awesome-list-item-->
 
 ## Start Here
 
@@ -73,29 +83,13 @@ Use these pages when you want to browse by topic.
 - [Career and Community](resources/career-community.md) - Interview preparation, community lists, student resources, and professional growth.
 <!--lint enable awesome-list-item-->
 
-## Resource Navigator Direction
+## Structured Data
 
-The next major improvement is to add goal-based paths. Instead of giving users hundreds of links at once, each path should answer:
-
-- What should I use first?
-- What should I use next?
-- What can I skip until later?
-- Why is this resource recommended?
-- What small project or checkpoint proves I used the resources well?
-
-Planned paths include:
+The Resource Navigator also has machine-readable data so automation, future websites, search tools, and agents can reuse the catalog without scraping markdown.
 
 <!--lint disable awesome-list-item-->
-- Start Programming From Zero.
-- Become a Frontend Developer.
-- Become a Backend Developer.
-- Build Full-Stack Projects.
-- Learn AI/ML Engineering.
-- Learn DevOps and Cloud.
-- Learn Cybersecurity Safely.
-- Prepare for Developer Interviews.
-- Contribute to Open Source.
-- Find Tools for a New Project.
+- [Structured Resources](data/resources.json) - Metadata for curated resources, including topics, level, format, cost, trust signal, use cases, and time to value.
+- [Structured Paths](data/paths.json) - Goal-based paths that connect resources into short recommendations with skip notes and checkpoints.
 <!--lint enable awesome-list-item-->
 
 ## Curation Rules
@@ -119,7 +113,7 @@ This repository uses automation to keep the catalog maintainable.
 - GitHub Codespaces is supported through `.devcontainer/devcontainer.json`.
 - Pull requests and pushes run `.github/workflows/validate.yml`.
 - Scheduled GitHub Actions check formatting and link health.
-- `npm run validate` checks markdown formatting, local links, duplicate links within files, and accidental binary assets.
+- `npm run validate` checks markdown formatting, local links, structured navigator data, duplicate links within files, and accidental binary assets.
 - A weekly Codex audit reviews README clarity, project positioning, resource quality, stale links, unsafe links, and possible Resource Navigator improvements.
 <!--lint enable awesome-list-item-->
 
@@ -134,5 +128,5 @@ The short version:
 - Write clear descriptions.
 - Avoid duplicates.
 - Keep the project focused on development resources.
-- Improve paths and recommendations when the Resource Navigator is implemented.
+- Improve Resource Navigator paths when you can make recommendations shorter, clearer, or more trustworthy.
 <!--lint enable awesome-list-item-->

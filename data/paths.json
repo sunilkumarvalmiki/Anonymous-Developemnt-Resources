@@ -1,0 +1,152 @@
+[
+  {
+    "id": "start-programming",
+    "title": "Start Programming From Zero",
+    "goal": "Build the first working foundation in programming, web basics, GitHub, and small projects.",
+    "audience": ["beginner"],
+    "essentials": ["freecodecamp", "mdn-web-docs", "cs50"],
+    "next": ["the-odin-project", "javascript-info", "github-skills", "developer-roadmap", "build-your-own-x"],
+    "deepDives": ["ossu-computer-science", "full-stack-open"],
+    "skipUntilLater": [
+      "Do not start with advanced system design, cloud orchestration, or machine learning theory.",
+      "Avoid collecting dozens of courses before finishing one project-based path."
+    ],
+    "checkpoint": "Build and publish a small personal site with at least one interactive feature and a README explaining what you learned.",
+    "relatedPages": ["navigator/paths/start-programming.md", "resources/learning-roadmaps.md", "resources/career-community.md"]
+  },
+  {
+    "id": "frontend-developer",
+    "title": "Become a Frontend Developer",
+    "goal": "Learn modern frontend fundamentals, UI implementation, framework basics, and production-quality web behavior.",
+    "audience": ["beginner", "intermediate"],
+    "essentials": ["mdn-web-docs", "javascript-info", "frontend-mentor"],
+    "next": ["react-docs", "typescript-docs", "tailwind-docs", "web-dev", "developer-roadmap"],
+    "deepDives": ["nextjs-docs", "vue-docs", "awesome-design-systems", "figma-community"],
+    "skipUntilLater": [
+      "Do not start by memorizing every framework API.",
+      "Delay advanced animation, micro-frontend, and build-system optimization until layout and JavaScript fundamentals are reliable."
+    ],
+    "checkpoint": "Build a responsive dashboard from a design, pass basic accessibility checks, and deploy it with a short case-study README.",
+    "relatedPages": ["navigator/paths/frontend-developer.md", "resources/languages-frameworks.md", "resources/design-media.md"]
+  },
+  {
+    "id": "backend-developer",
+    "title": "Become a Backend Developer",
+    "goal": "Learn APIs, servers, databases, authentication-ready architecture, and operational basics.",
+    "audience": ["beginner", "intermediate"],
+    "essentials": ["nodejs-docs", "express-docs", "postgresql-docs"],
+    "next": ["fastapi-docs", "django-docs", "public-apis", "docker-docs", "system-design-primer"],
+    "deepDives": ["opentelemetry-docs", "prometheus-docs", "free-for-dev"],
+    "skipUntilLater": [
+      "Do not start with distributed systems before you can build and test a simple API.",
+      "Avoid premature microservices; first learn one service, one database, and one deployment."
+    ],
+    "checkpoint": "Build a CRUD API with validation, tests, a PostgreSQL schema, Docker setup, and a short architecture note.",
+    "relatedPages": ["navigator/paths/backend-developer.md", "resources/languages-frameworks.md", "resources/tools-services.md"]
+  },
+  {
+    "id": "full-stack-projects",
+    "title": "Build Full-Stack Projects",
+    "goal": "Turn frontend, backend, database, deployment, and documentation skills into useful portfolio applications.",
+    "audience": ["intermediate"],
+    "essentials": ["the-odin-project", "full-stack-open", "public-apis"],
+    "next": ["nextjs-docs", "nodejs-docs", "postgresql-docs", "vercel-docs", "netlify-docs"],
+    "deepDives": ["cloudflare-pages", "github-actions-docs", "docker-docs", "awesome-readme"],
+    "skipUntilLater": [
+      "Do not start with complex SaaS billing, permissions, or multi-tenant architecture.",
+      "Avoid copying tutorial apps without changing the data model, UI, or workflow."
+    ],
+    "checkpoint": "Ship one public project with authentication-ready structure, persistent data, CI validation, deployment, and a clear demo path.",
+    "relatedPages": ["navigator/paths/full-stack-projects.md", "resources/learning-roadmaps.md", "resources/tools-services.md"]
+  },
+  {
+    "id": "ai-ml-engineering",
+    "title": "Learn AI/ML Engineering",
+    "goal": "Build practical data, machine learning, model discovery, and evaluation habits before moving into advanced research.",
+    "audience": ["beginner", "intermediate"],
+    "essentials": ["python-docs", "kaggle-learn", "hugging-face-models"],
+    "next": ["hugging-face-datasets", "papers-with-code", "machine-learning-tutorials", "public-apis", "developer-roadmap"],
+    "deepDives": ["ossu-computer-science", "cs50", "freecodecamp"],
+    "skipUntilLater": [
+      "Do not start with fine-tuning large models before understanding datasets, evaluation, and basic Python workflows.",
+      "Avoid using model demos without recording inputs, outputs, limitations, and evaluation notes."
+    ],
+    "checkpoint": "Create a small notebook or app that loads a dataset, runs a baseline model or hosted model, and documents evaluation limits.",
+    "relatedPages": ["navigator/paths/ai-ml-engineering.md", "resources/apis-data.md", "resources/learning-roadmaps.md"]
+  },
+  {
+    "id": "devops-cloud",
+    "title": "Learn DevOps and Cloud",
+    "goal": "Learn automation, containers, CI/CD, hosting, observability, and infrastructure discovery in a practical order.",
+    "audience": ["intermediate", "advanced"],
+    "essentials": ["docker-docs", "github-actions-docs", "free-for-dev"],
+    "next": ["kubernetes-docs", "terraform-registry", "awesome-actions", "opentelemetry-docs", "prometheus-docs"],
+    "deepDives": ["awesome-docker", "cloudflare-pages", "netlify-docs"],
+    "skipUntilLater": [
+      "Do not begin with multi-cluster Kubernetes operations.",
+      "Avoid cloud spending experiments until you understand free tiers, cleanup steps, and access controls."
+    ],
+    "checkpoint": "Containerize a small app, run tests in GitHub Actions, deploy it, and add one basic metric or health check.",
+    "relatedPages": ["navigator/paths/devops-cloud.md", "resources/tools-services.md", "resources/high-volume-discovery.md"]
+  },
+  {
+    "id": "cybersecurity-safe",
+    "title": "Learn Cybersecurity Safely",
+    "goal": "Study defensive security, web risks, and lawful lab-style learning without drifting into unsafe or harmful material.",
+    "audience": ["beginner", "intermediate"],
+    "essentials": ["owasp-top-ten", "owasp-cheat-sheet", "awesome-web-security"],
+    "next": ["awesome-osint", "hacktricks", "github-skills", "developer-roadmap", "public-apis"],
+    "deepDives": ["system-design-primer", "docker-docs"],
+    "skipUntilLater": [
+      "Do not test systems you do not own or have explicit permission to assess.",
+      "Avoid malware, credential theft, exploit trading, or anything that bypasses consent."
+    ],
+    "checkpoint": "Review a demo application against OWASP guidance and write a defensive checklist with risks, fixes, and verification steps.",
+    "relatedPages": ["navigator/paths/cybersecurity-safe.md", "resources/security.md", "resources/tools-services.md"]
+  },
+  {
+    "id": "interview-prep",
+    "title": "Prepare for Developer Interviews",
+    "goal": "Build a focused interview preparation path across coding, frontend, system design, resume, and project explanation.",
+    "audience": ["beginner", "intermediate", "advanced"],
+    "essentials": ["tech-interview-handbook", "coding-interview-university", "leetcode"],
+    "next": ["frontend-interview-handbook", "awesome-interview-questions", "system-design-primer", "build-your-own-x", "awesome-readme"],
+    "deepDives": ["developer-roadmap", "freecodecamp"],
+    "skipUntilLater": [
+      "Do not grind random problems without reviewing patterns and mistakes.",
+      "Avoid over-optimizing resumes before you can explain one real project clearly."
+    ],
+    "checkpoint": "Prepare one project walkthrough, solve and review a small set of tagged problems, and write notes for tradeoffs you can explain aloud.",
+    "relatedPages": ["navigator/paths/interview-prep.md", "resources/career-community.md", "resources/learning-roadmaps.md"]
+  },
+  {
+    "id": "open-source-contributor",
+    "title": "Contribute to Open Source",
+    "goal": "Learn the GitHub contribution workflow, find approachable issues, and make useful project contributions.",
+    "audience": ["beginner", "intermediate"],
+    "essentials": ["first-contributions", "github-skills", "open-source-guides"],
+    "next": ["good-first-issue", "awesome-for-beginners", "github-git-cheat-sheet", "awesome-readme", "developer-roadmap"],
+    "deepDives": ["awesome-actions", "awesome-cli-apps"],
+    "skipUntilLater": [
+      "Do not start by rewriting project architecture or opening huge unfocused pull requests.",
+      "Avoid drive-by contributions that ignore maintainers' contribution rules."
+    ],
+    "checkpoint": "Open one small, scoped pull request with a clear description, validation notes, and respectful follow-up on review feedback.",
+    "relatedPages": ["navigator/paths/open-source-contributor.md", "resources/career-community.md", "CONTRIBUTING.md"]
+  },
+  {
+    "id": "project-tools",
+    "title": "Find Tools for a New Project",
+    "goal": "Choose useful APIs, hosting, deployment, CLI, automation, and documentation resources without overbuilding.",
+    "audience": ["beginner", "intermediate", "advanced"],
+    "essentials": ["free-for-dev", "public-apis", "github-pages"],
+    "next": ["vercel-docs", "netlify-docs", "cloudflare-pages", "awesome-cli-apps", "github-actions-docs"],
+    "deepDives": ["docker-docs", "terraform-registry", "opentelemetry-docs", "figma-community"],
+    "skipUntilLater": [
+      "Do not add tools because they are popular; add them when the project has a concrete need.",
+      "Avoid paid infrastructure until the free tier, data limits, and exit path are clear."
+    ],
+    "checkpoint": "Create a one-page project stack note that lists the chosen API, hosting path, CI check, deployment target, and why each was selected.",
+    "relatedPages": ["navigator/paths/project-tools.md", "resources/tools-services.md", "resources/apis-data.md"]
+  }
+]

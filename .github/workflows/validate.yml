@@ -28,7 +28,7 @@ jobs:
           node-version: "22"
 
       - name: Validate resources
-        run: npm run validate
+        run: npm run check
 
   link-health:
     name: Scheduled link health
@@ -47,5 +47,6 @@ jobs:
             --no-progress
             --accept 200,204,206,301,302,403,429
             "**/*.md"
+            "data/*.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

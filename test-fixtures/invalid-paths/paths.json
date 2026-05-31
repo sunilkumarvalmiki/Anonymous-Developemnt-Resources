@@ -1,0 +1,14 @@
+[
+  {
+    "id": "broken-path",
+    "title": "Broken Path",
+    "goal": "Show that invalid structured path data fails validation.",
+    "audience": ["beginner"],
+    "essentials": ["missing-resource", "mdn-web-docs", "mdn-web-docs", "mdn-web-docs"],
+    "next": [],
+    "deepDives": [],
+    "skipUntilLater": [],
+    "checkpoint": "",
+    "relatedPages": ["resources/missing.md"]
+  }
+]

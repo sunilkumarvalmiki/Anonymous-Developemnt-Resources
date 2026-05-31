@@ -2,6 +2,8 @@
 
 Use these pages to browse and maintain the catalog by intent. The main README stays short so the repository remains easy to scan.
 
+If you want a recommendation instead of a category list, use the [Resource Navigator](../navigator/README.md). The navigator turns selected resources into goal-based paths with first steps, next steps, skip notes, and checkpoints.
+
 ## Categories
 
 - [Mega Indexes](mega-indexes.md) - Source-of-sources indexes that unlock very large resource collections.
@@ -18,4 +20,6 @@ Use these pages to browse and maintain the catalog by intent. The main README st
 
 - Keep high-volume directories in [Mega Indexes](mega-indexes.md).
 - Put direct category resources in the most specific category page.
+- Put decision-ready recommendations in [Resource Navigator](../navigator/README.md), not only in category pages.
+- Keep structured metadata aligned with [data/resources.json](../data/resources.json) and [data/paths.json](../data/paths.json).
 - Use pull requests for additions so automation can catch duplicates, empty descriptions, and local-file mistakes.
