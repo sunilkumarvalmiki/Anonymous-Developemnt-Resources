@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mdn-web-docs",
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/",
+    "description": "Reference documentation for web platform technologies.",
+    "categories": ["frontend"],
+    "topics": ["html", "css", "javascript"],
+    "level": ["beginner"],
+    "format": ["docs"],
+    "cost": "free",
+    "trust": ["official"],
+    "useCases": ["learn web fundamentals"],
+    "timeToValue": "fast"
+  }
+]

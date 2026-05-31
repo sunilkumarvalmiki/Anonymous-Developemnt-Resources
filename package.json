@@ -3,7 +3,9 @@
   "private": true,
   "description": "Resource-only catalog of software development links.",
   "scripts": {
-    "validate": "node scripts/validate-resources.mjs"
+    "check": "npm run validate && npm run validate:fixtures",
+    "validate": "node scripts/validate-resources.mjs",
+    "validate:fixtures": "node scripts/expect-validation-failure.mjs"
   },
   "engines": {
     "node": ">=20"
