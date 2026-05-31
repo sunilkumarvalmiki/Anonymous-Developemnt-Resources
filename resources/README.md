@@ -5,6 +5,7 @@ Use these pages to browse and maintain the catalog by intent. The main README st
 ## Categories
 
 - [Mega Indexes](mega-indexes.md) - Source-of-sources indexes that unlock very large resource collections.
+- [High-Volume Discovery Sources](high-volume-discovery.md) - Live indexes, registries, topic searches, and catalogs for very large resource discovery.
 - [Learning and Roadmaps](learning-roadmaps.md) - Structured learning paths, curricula, roadmaps, and project-based practice.
 - [Books, Courses, APIs, and Data](apis-data.md) - Free learning material, public APIs, datasets, and reusable data sources.
 - [Tools and Services](tools-services.md) - Developer tools, hosting, cloud tiers, CI/CD, testing, observability, and productivity.

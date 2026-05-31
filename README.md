@@ -14,6 +14,8 @@ This repository is optimized as a curated index of high-signal resource hubs. It
 ## Start Here
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The canonical meta-list of awesome lists across software and adjacent technical topics.
+- [Ultimate Awesome](https://github.com/andrew/ultimate-awesome) - Automatically generated list of awesome lists on many topics, updated daily from awesome.ecosyste.ms.
+- [Ecosyste.ms Awesome](https://awesome.ecosyste.ms/) - Open API service that indexes awesome lists and exposes project counts, stars, forks, topics, and update status.
 - [Open Awesome](https://open-awesome.com/) - Searchable index of awesome-list projects grouped by categories and popularity.
 - [AwesomeIndex](https://awesomeindex.dev/) - Discovery index for high-star resource repositories, awesome lists, and learning collections.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Large community-maintained collection of free programming books and learning resources.
@@ -26,6 +28,7 @@ This repository is optimized as a curated index of high-signal resource hubs. It
 
 <!--lint disable awesome-list-item-->
 - [Resource Catalog Index](resources/README.md) - Overview of all maintained category pages in this repository.
+- [High-Volume Discovery Sources](resources/high-volume-discovery.md) - Live indexes, registries, topic searches, and catalogs for finding thousands of resources.
 - [Mega Indexes](resources/mega-indexes.md) - High-volume source-of-sources repositories and search indexes.
 - [Learning and Roadmaps](resources/learning-roadmaps.md) - Curricula, project-based learning, courses, and structured paths.
 - [Books, Courses, APIs, and Data](resources/apis-data.md) - Free books, public APIs, datasets, and reusable learning material.
