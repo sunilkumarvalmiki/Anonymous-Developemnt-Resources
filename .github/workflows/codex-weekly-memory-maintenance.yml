@@ -1,0 +1,76 @@
+name: Codex weekly memory maintenance
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  maintain-memory:
+    name: Update durable project memory
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Verify required secret
+        shell: bash
+        run: |
+          if [ -z "${OPENAI_API_KEY}" ]; then
+            echo "OPENAI_API_KEY is required." >&2
+            exit 1
+          fi
+
+      - name: Run Codex weekly memory maintenance
+        id: run_codex
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt-file: .github/codex/prompts/weekly-memory-maintenance.md
+          sandbox: workspace-write
+          safety-strategy: drop-sudo
+          allow-bots: github-actions[bot]
+          output-file: codex-weekly-memory-output.md
+
+      - name: Capture memory diff
+        shell: bash
+        run: |
+          git diff -- docs/ai-memory AGENTS.md .agents/skills/project-memory-maintainer/SKILL.md .github/codex/prompts/weekly-memory-maintenance.md > codex-weekly-memory.diff || true
+          git status --short > codex-weekly-memory-status.txt
+
+      - name: Upload Codex output artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: codex-weekly-memory-maintenance
+          path: |
+            codex-weekly-memory-output.md
+            codex-weekly-memory.diff
+            codex-weekly-memory-status.txt
+            docs/ai-memory
+
+      - name: Create pull request
+        if: ${{ hashFiles('docs/ai-memory/**', 'AGENTS.md', '.agents/skills/project-memory-maintainer/SKILL.md', '.github/codex/prompts/weekly-memory-maintenance.md') != '' }}
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ github.token }}
+          commit-message: "docs: refresh project memory"
+          title: "[codex] Weekly memory maintenance"
+          body: |
+            Automated weekly refresh of durable project memory.
+
+            Included:
+            - updates under `docs/ai-memory/`
+            - any justified root `AGENTS.md` adjustments
+            - artifact with Codex output and diff
+
+            This workflow should not make product or architecture changes outside memory maintenance.
+          branch: codex/weekly-memory-maintenance
+          delete-branch: true
